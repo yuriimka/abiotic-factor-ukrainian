@@ -6408,6 +6408,14 @@ You are the host of this game and anyone connected will be removed from the game
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But that's a whole sector away.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122149Z" creationid="Yuriy" creationdate="20260506T122149Z">
+        <seg>Але це аж за цілий сектор звідси.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But we can activate the forklift and access Manufacturing Sector using a POWER CELL ... if I can find one.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T164026Z" creationid="Yuriy" creationdate="20260426T164026Z">
