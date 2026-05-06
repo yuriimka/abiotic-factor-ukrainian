@@ -896,6 +896,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A bench that mixes distillations into strange and powerful concoctions.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T195000Z" creationid="Yuriy" creationdate="20260506T195000Z">
+        <seg>Верстак, якй змішує дистиляції, перетворюючи їх на дивні та потужні суміші.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A big chestplate made from cloth, tape and stuffing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T104042Z" creationid="Yuriy" creationdate="20260402T104042Z">
