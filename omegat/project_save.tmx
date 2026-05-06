@@ -8926,10 +8926,26 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dr Derek Manse reporting, Research Director, GATE Cascade Research Facility.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T132030Z" creationid="Yuriy" creationdate="20260506T132030Z">
+        <seg>Доктор Дерек Менс доповідає, директор з досліджень Комплексу БРАМА Каскад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dr Derek Manse reporting, Research Director.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T154838Z" creationid="Yuriy" creationdate="20260408T154838Z">
         <seg>Доктор Дерек Менс, директор з досліджень, доповідає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dr Derek Manse reporting, [1.9]Research Director, GATE Cascade Research Facility.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T132115Z" creationid="Yuriy" creationdate="20260506T132115Z">
+        <seg>Доктор Дерек Менс доповідає, [1.9] Директор з Жосліджень, Комплекс БРАМА Каскад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31109,6 +31125,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T152310Z" creationid="Yuriy" creationdate="20260422T152310Z">
         <seg>[5.7]Вільна, бо змогла втекти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[5.7]Originating in Anteverse 2, [8]I.S.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T132139Z" creationid="Yuriy" creationdate="20260506T132139Z">
+        <seg>[5.7]Походячи із Антивсесвіту 2, [8]І.С.</seg>
       </tuv>
     </tu>
     <tu>
