@@ -17160,6 +17160,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Militant</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T134944Z" creationid="Yuriy" creationdate="20260506T134944Z">
+        <seg>Боєць</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Military Cot</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T115149Z" creationid="Yuriy" creationdate="20260410T115149Z">
@@ -26447,6 +26455,14 @@ With a research bakground in everything from cognitive evolution to neutrino det
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T161246Z" creationid="Yuriy" creationdate="20260408T161246Z">
         <seg>Невідоме Місце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown Militant</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T134635Z" creationid="Yuriy" creationdate="20260506T134635Z">
+        <seg>Невідомий Боєць</seg>
       </tuv>
     </tu>
     <tu>
