@@ -7546,6 +7546,14 @@ You can select POSITIVE and NEGATIVE traits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chemistry Bench</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T175945Z" creationid="Yuriy" creationdate="20260506T175945Z">
+        <seg>Верстак для Хімії</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Chemistry Recipes</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T155447Z" creationid="Yuriy" creationdate="20260326T155447Z">
