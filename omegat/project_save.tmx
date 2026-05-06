@@ -4138,6 +4138,14 @@ In 1990 she accepted secondment to the GATE Cascade Research Facility, where she
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All portal world resources have reset.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135355Z" creationid="Yuriy" creationdate="20260506T135355Z">
+        <seg>Усі ресурси портальних світів було відновлено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All signs point towards Power Cells being taken through the Silo 3 portal...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T104727Z" creationid="Yuriy" creationdate="20260504T104727Z">
@@ -8820,6 +8828,14 @@ The aim of the project remains to create fully sentient artificial intelligence,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you have ANY idea what's going on?!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135451Z" creationid="Yuriy" creationdate="20260506T135451Z">
+        <seg>Ти хоч ЩОСЬ розумієш, що тут відбувається?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you think we'll get a Nobel Prize for this?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T162134Z" creationid="Yuriy" creationdate="20260408T162134Z">
@@ -9306,6 +9322,22 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T161522Z" creationid="Yuriy" creationdate="20260422T161522Z">
         <seg>Доктор Стівен Стюарт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dr. Stewart</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135411Z" creationid="Yuriy" creationdate="20260506T135411Z">
+        <seg>Доктор Стюарт</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dr. Stewart Wakeman</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135422Z" creationid="Yuriy" creationdate="20260506T135422Z">
+        <seg>Доктор Стюарт Вейкман</seg>
       </tuv>
     </tu>
     <tu>
