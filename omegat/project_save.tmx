@@ -664,6 +664,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>... but ... she's ... there.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120329Z" creationid="Yuriy" creationdate="20260506T120329Z">
+        <seg>... але ... вона ... там.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>.308 Ammo</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T103928Z" creationid="Yuriy" creationdate="20260410T103928Z">
@@ -4246,6 +4254,14 @@ In 1990 she accepted secondment to the GATE Cascade Research Facility, where she
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T151209Z" creationid="Yuriy" creationdate="20260426T151209Z">
         <seg>Хоча ця істота дуже агресивна, вона радше є перешкодою, ніж загрозою для більшої здобичі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Am I ... there too?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120520Z" creationid="Yuriy" creationdate="20260506T120445Z">
+        <seg>Чи я ... також там?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13134,6 +13150,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I have ... seen ... death ...... - here?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120401Z" creationid="Yuriy" creationdate="20260506T120401Z">
+        <seg>Я ... бачила ... смерть ...... - тут?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I have seen you before, and sung all of this again.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T151757Z" creationid="Yuriy" creationdate="20260422T151757Z">
@@ -13186,6 +13210,14 @@ We do know it's in Boston though!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T160924Z" creationid="Yuriy" creationdate="20260408T160924Z">
         <seg>Я знав, що це станеться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I locked it in ... with everyone else ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120442Z" creationid="Yuriy" creationdate="20260506T120442Z">
+        <seg>Я замкла це... разом з усіма іншими...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13446,6 +13478,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I thought I was there... but I'm....</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120256Z" creationid="Yuriy" creationdate="20260506T120256Z">
+        <seg>Я думала, що я там... але я...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I thought they were coming to help!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T151415Z" creationid="Yuriy" creationdate="20260405T151415Z">
@@ -13558,6 +13598,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm here ... ?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120303Z" creationid="Yuriy" creationdate="20260506T120303Z">
+        <seg>Я тут... ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm not sure what just happened, but I suspect I'm not going to like the answer, if I can get one at all.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T105918Z" creationid="Yuriy" creationdate="20260504T105918Z">
@@ -13570,6 +13618,14 @@ We do know it's in Boston though!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T105759Z" creationid="Yuriy" creationdate="20260402T105759Z">
         <seg>Я голооооодна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm still here ... am I?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120300Z" creationid="Yuriy" creationdate="20260506T120300Z">
+        <seg>Я все ще тут... чи не так?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13612,6 +13668,14 @@ Incidentally, autopsies suggest they're the second stage in the lifecycle of a m
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T105932Z" creationid="Yuriy" creationdate="20260504T105932Z">
         <seg>Я відкрив шлях до Реакторів, сподіваюся, це було правильним рішенням...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I..</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120246Z" creationid="Yuriy" creationdate="20260506T120246Z">
+        <seg>Я..</seg>
       </tuv>
     </tu>
     <tu>
@@ -26701,6 +26765,14 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We ... can't go this way ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120535Z" creationid="Yuriy" creationdate="20260506T120535Z">
+        <seg>Ми... не можемо піти туди...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We analysed the specimen you brought back.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T224302Z" creationid="Yuriy" creationdate="20260427T224302Z">
@@ -28271,6 +28343,14 @@ A question still lingers regarding the symbols and shapes etched into its surfac
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T114654Z" creationid="Yuriy" creationdate="20260329T114654Z">
         <seg>Ви не активуєте ані Лазерні ні звичайні Розтяжки, Карбункули теж не докучають, навіть коли не присідаєте.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You don't... want to.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120545Z" creationid="Yuriy" creationdate="20260506T120545Z">
+        <seg>Ти... цього не захочеш.</seg>
       </tuv>
     </tu>
     <tu>
