@@ -18168,6 +18168,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oh dear.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T221329Z" creationid="Yuriy" creationdate="20260506T221329Z">
+        <seg>Ой лишенько.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Oh my God.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260331T164616Z" creationid="Yuriy" creationdate="20260331T164616Z">
