@@ -13510,6 +13510,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll be here, alright?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T215152Z" creationid="Yuriy" creationdate="20260506T215152Z">
+        <seg>Я буду тут, добре?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm ... stronger.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T171521Z" creationid="Yuriy" creationdate="20260407T171502Z">
