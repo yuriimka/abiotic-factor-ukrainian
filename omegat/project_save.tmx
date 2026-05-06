@@ -25113,6 +25113,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This door is unlocked elsewhere.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123644Z" creationid="Yuriy" creationdate="20260506T123644Z">
+        <seg>Ці двері відчиняються іншим чином.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This door won't budge.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260430T233918Z" creationid="Yuriy" creationdate="20260430T233918Z">
