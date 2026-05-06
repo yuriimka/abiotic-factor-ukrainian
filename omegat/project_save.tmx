@@ -13566,6 +13566,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm freeeeeezing.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T222715Z" creationid="Yuriy" creationdate="20260506T222715Z">
+        <seg>Я зааааамерзаю.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm going to need to find a way to deal with that.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T143044Z" creationid="Yuriy" creationdate="20260405T143044Z">
