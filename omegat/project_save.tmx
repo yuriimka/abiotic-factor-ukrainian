@@ -3576,6 +3576,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>AWHILE</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123705Z" creationid="Yuriy" creationdate="20260506T123705Z">
+        <seg>ТРОШКИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Abe</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260323T212252Z" creationid="Yuriy" creationdate="20260323T212252Z">
@@ -4060,6 +4068,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T120121Z" creationid="Yuriy" creationdate="20260410T120121Z">
         <seg>Еліс Хонґ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alice Hong came out of Security Sector, and locked the blast door behind her.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123831Z" creationid="Yuriy" creationdate="20260506T123831Z">
+        <seg>Еліс Гонґ вийшла з Сектора Безпеки та замкнула за собою вибухотривкі двері.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22605,6 +22621,14 @@ Hostile to any and all outsiders, the Canaanites see the works of 'the Enemy' ev
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Something in there scared the living daylights out of her.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123851Z" creationid="Yuriy" creationdate="20260506T123851Z">
+        <seg>Щось налякало її до смерті в тому місці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Something is near...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260430T232935Z" creationid="Yuriy" creationdate="20260430T232935Z">
@@ -24831,6 +24855,14 @@ Whether actually sentient, or a clever simulation, it’s difficult to know for 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There's no way through from this side...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123907Z" creationid="Yuriy" creationdate="20260506T123907Z">
+        <seg>З цієї сторони проходу немає...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There's only one way out of here, and it's ... wet.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T110639Z" creationid="Yuriy" creationdate="20260504T110639Z">
@@ -26673,6 +26705,14 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260420T123326Z" creationid="Yuriy" creationdate="20260420T123326Z">
         <seg>Вусуар</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WAIT ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123650Z" creationid="Yuriy" creationdate="20260506T123650Z">
+        <seg>ЗАЧЕКАЙ ...</seg>
       </tuv>
     </tu>
     <tu>
