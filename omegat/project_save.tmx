@@ -8888,8 +8888,8 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
       <tuv lang="en">
         <seg>Dr. Abe Stern</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260420T131844Z" creationid="Yuriy" creationdate="20260420T131844Z">
-        <seg>Доктор Ейб Штерн</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T115933Z" creationid="Yuriy" creationdate="20260420T131844Z">
+        <seg>Доктор Ейб Стерн</seg>
       </tuv>
     </tu>
     <tu>
@@ -25001,6 +25001,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is Dr Derek Manse.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T115838Z" creationid="Yuriy" creationdate="20260506T115838Z">
+        <seg>Це Доктор Дерек Менс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is Dr. Derek Manse.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T155503Z" creationid="Yuriy" creationdate="20260408T155503Z">
@@ -30292,6 +30300,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T151417Z" creationid="Yuriy" creationdate="20260405T151417Z">
         <seg>[2] Але це були не БРАМА!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[2]Today I discovered that Dr. Stern's latest software experiment [6.7]was simulating the entire facility - [9.4]a microcosm of Cascade, and every staff member within it, [13.6]even myself, I gather.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T115857Z" creationid="Yuriy" creationdate="20260506T115857Z">
+        <seg>[2]Сьогодні я дізнався, що останній програмний експеримент доктора Стерна [6.7]симулював весь об'єкт — [9.4]мікрокосм Каскейду та кожного співробітника в ньому, [13.6]навіть мене, наскільки я розумію.</seg>
       </tuv>
     </tu>
     <tu>
