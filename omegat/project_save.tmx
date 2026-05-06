@@ -29816,6 +29816,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[11.6]As its bio systems work much more swiftly here, it learns extremely rapidly.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T193940Z" creationid="Yuriy" creationdate="20260506T193940Z">
+        <seg>[11.6]Оскільки їх біосистеми працюють тут набагато швидше, воно навчається надзвичайно швидко.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[11.8]In fact, it grows smarter and more capable over the course of its life cycle, [16.5]before morphing into the later lifecycle phase.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T154000Z" creationid="Yuriy" creationdate="20260408T154000Z">
@@ -30060,6 +30068,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T154020Z" creationid="Yuriy" creationdate="20260408T154020Z">
         <seg>[19.8]Доктору Манбанко навіть вдалося навчити його кількох простих трюків, [23.7]наскільки я знаю, усе обійшлося лише незначними опіками.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[2.0]Although it remains essentially hostile, [4.6]these "Peccary" can be taught to respond to basic commands, [8.0]as Dr Manbanko has demonstrated so performatively.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T193952Z" creationid="Yuriy" creationdate="20260506T193922Z">
+        <seg>[2.0]Хоча воно залишається по суті ворожими, [4.6]цих "пекарі" можна навчити реагувати на примітивні команди, [8.0]як це демонстрував доктор Манбанко на практиці.</seg>
       </tuv>
     </tu>
     <tu>
