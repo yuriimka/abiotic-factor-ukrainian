@@ -29404,6 +29404,14 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your account is limited from certain online features and will be unable to participate in the following</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T192012Z" creationid="Yuriy" creationdate="20260506T192012Z">
+        <seg>Ваш обліковий запис обмежений у доступі до певних онлайн-функцій, і ви не зможете брати участь у наступному:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your account is limited from certain online features and will be unable to participate in the following:</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260328T104103Z" creationid="Yuriy" creationdate="20260328T104103Z">
