@@ -9862,6 +9862,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Energy Research team ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131644Z" creationid="Yuriy" creationdate="20260506T131644Z">
+        <seg>Команда Енергетичних Досліджень ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enethiol</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T100347Z" creationid="Yuriy" creationdate="20260402T100347Z">
@@ -14608,6 +14616,14 @@ _x000D_
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T183845Z" creationid="Yuriy" creationdate="20260324T183845Z">
         <seg>Якщо цей стовпчик досягне нуля, ви вріжете дуба.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can get out of here, send help ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131917Z" creationid="Yuriy" creationdate="20260506T131917Z">
+        <seg>Якщо можеш звідси вибратися, поклич по допомогу...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25065,6 +25081,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They weren't Gatekeepers ... [2.5]someone else ... not government ... [5.7]heading for the Silos ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131757Z" creationid="Yuriy" creationdate="20260506T131757Z">
+        <seg>Вони не були Брамниками ... [2.5]кимось іншим ... не урядом ... [5.7]прямували до Силосів ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They'll know what to do.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T101756Z" creationid="Yuriy" creationdate="20260402T101756Z">
@@ -26095,6 +26119,14 @@ With a research bakground in everything from cognitive evolution to neutrino det
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260323T211020Z" creationid="Yuriy" creationdate="20260323T211020Z">
         <seg>Тританопія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try Level 3 ... the power cells ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131721Z" creationid="Yuriy" creationdate="20260506T131634Z">
+        <seg>Оглянь 3-й рівень ... енергоядра ...</seg>
       </tuv>
     </tu>
     <tu>
