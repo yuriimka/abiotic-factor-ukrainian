@@ -13156,6 +13156,14 @@ How did you manage it?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I can't bear to look.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135536Z" creationid="Yuriy" creationdate="20260506T135536Z">
+        <seg>Я не маю бажання поглянути.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I can't get my data till you make that hacker.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T162728Z" creationid="Yuriy" creationdate="20260408T162728Z">
@@ -30248,6 +30256,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[10.2]Is he even still breathing?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135514Z" creationid="Yuriy" creationdate="20260506T135514Z">
+        <seg>[10.2]Він взагалі ще дихає?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[10.3]Haha - I knew today was gonna be a wild one!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T171317Z" creationid="Yuriy" creationdate="20260407T171300Z">
@@ -30748,6 +30764,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T125143Z" creationid="Yuriy" creationdate="20260405T125143Z">
         <seg>[2.7]Рація здохла, половина дверей полетіла під три чорти, а тепер ще ці дрібні стрибунці повсюди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[2.9]Oh, have you only got blue clearance, too?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135502Z" creationid="Yuriy" creationdate="20260506T135502Z">
+        <seg>[2.9]Ох, у тебе теж лише синій допуск?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31389,6 +31413,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T102908Z" creationid="Yuriy" creationdate="20260408T161033Z">
         <seg>[5] Після того вже неможливо було дістати жодного Енергоядра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[6.2]I've been hiding here since those goons attacked that poor technician down there.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135512Z" creationid="Yuriy" creationdate="20260506T135512Z">
+        <seg>[6.2]Я ховаюся тут відтоді, як ці головорізи напали на того бідолашного техніка там внизу.</seg>
       </tuv>
     </tu>
     <tu>
