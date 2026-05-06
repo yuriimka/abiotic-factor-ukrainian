@@ -8780,6 +8780,14 @@ The aim of the project remains to create fully sentient artificial intelligence,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do NOT reignite the Rift!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T134405Z" creationid="Yuriy" creationdate="20260506T134405Z">
+        <seg>НЕ запускайте Розлом заново!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not presume to know what fate intends.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T153942Z" creationid="Yuriy" creationdate="20260422T153942Z">
@@ -21297,6 +21305,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SCIENTIST!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T134313Z" creationid="Yuriy" creationdate="20260506T134313Z">
+        <seg>ВЧЕНИЙ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SCRAP ITEM</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T190419Z" creationid="Yuriy" creationdate="20260324T190419Z">
@@ -23939,6 +23955,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T114022Z" creationid="Yuriy" creationdate="20260329T114022Z">
         <seg>Критична Швидкість</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terminate Weather Event: {0}</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T134306Z" creationid="Yuriy" creationdate="20260506T134306Z">
+        <seg>Знешкодити Погодне Явище: {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -30376,6 +30400,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[14]Is the cost of your knowledge ... not already clear?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T134518Z" creationid="Yuriy" creationdate="20260506T134518Z">
+        <seg>[14]Хіба ціна ваших знань... ще не зрозуміла?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[15.45]The surviving residents have been evacuated, [17.75]and a cordon established around the town, citing a chemical spill.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T163448Z" creationid="Yuriy" creationdate="20260408T163448Z">
@@ -30708,6 +30740,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T151613Z" creationid="Yuriy" creationdate="20260422T151613Z">
         <seg>[21.81]Тож нехай його беззвуччя веде тебе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[21]If you will not stop yourself, WE WILL.[28.3](Dying) [33.8](Imprecation)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T134624Z" creationid="Yuriy" creationdate="20260506T134624Z">
+        <seg>[21]Якщо ви не зупините себе, МИ ЗУПИНИМО.[28.3](Помирає) [33.8](Проклинає)</seg>
       </tuv>
     </tu>
     <tu>
@@ -31313,6 +31353,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[6]There are abominations within!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T134429Z" creationid="Yuriy" creationdate="20260506T134418Z">
+        <seg>[6]Усередині існують всілякі потвори!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[7.00]Can you get someone to fix it?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260331T165026Z" creationid="Yuriy" creationdate="20260331T165026Z">
@@ -31453,6 +31501,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T162006Z" creationid="Yuriy" creationdate="20260408T162006Z">
         <seg>[9.2]Я ніколи не отримаю Нобелівську премію!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[9.4]My brethren crossed over, to seal your folly!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T134510Z" creationid="Yuriy" creationdate="20260506T134420Z">
+        <seg>[9.4]Мої побратими перейшли, щоб запобігти твоїй дурості!</seg>
       </tuv>
     </tu>
     <tu>
