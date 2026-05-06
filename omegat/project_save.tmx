@@ -56,9 +56,25 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Annoyed Grunt).,</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T183242Z" creationid="Yuriy" creationdate="20260506T183242Z">
+        <seg>(Сердите бурчання)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Beep.)</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260322T192229Z" creationid="Yuriy" creationdate="20260322T192229Z">
+        <seg>(Біп).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(Beep.),</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T183203Z" creationid="Yuriy" creationdate="20260506T183203Z">
         <seg>(Біп).</seg>
       </tuv>
     </tu>
