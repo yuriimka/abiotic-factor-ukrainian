@@ -122,8 +122,8 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
       <tuv lang="en">
         <seg>(Heavy breathing)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260322T192407Z" creationid="Yuriy" creationdate="20260322T192407Z">
-        <seg>(Важке дихання)</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T203923Z" creationid="Yuriy" creationdate="20260322T192407Z">
+        <seg>(Важко дихає)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13512,8 +13512,8 @@ We do know it's in Boston though!</seg>
       <tuv lang="en">
         <seg>I'll be here, alright?</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T215152Z" creationid="Yuriy" creationdate="20260506T215152Z">
-        <seg>Я буду тут, добре?</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T215250Z" creationid="Yuriy" creationdate="20260506T215250Z">
+        <seg>Я буду тут, гаразд?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18178,8 +18178,8 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       <tuv lang="en">
         <seg>Oh dear.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T221422Z" creationid="Yuriy" creationdate="20260506T221422Z">
-        <seg>О, Боже.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T221329Z" creationid="Yuriy" creationdate="20260506T221329Z">
+        <seg>Ой лишенько.</seg>
       </tuv>
     </tu>
     <tu>
