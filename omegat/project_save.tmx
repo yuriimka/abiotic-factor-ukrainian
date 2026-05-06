@@ -7442,6 +7442,14 @@ You can select POSITIVE and NEGATIVE traits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check-In Terminal ({0})</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T125926Z" creationid="Yuriy" creationdate="20260506T125926Z">
+        <seg>Термінал реєстрації ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check-In Terminals are places where you can return to if you die - a respawn point.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T110150Z" creationid="Yuriy" creationdate="20260402T110150Z">
@@ -12968,6 +12976,14 @@ How did you manage it?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T105428Z" creationid="Yuriy" creationdate="20260504T105428Z">
         <seg>Зомбі з Гідростанції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Hygroscopic</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T130011Z" creationid="Yuriy" creationdate="20260506T130011Z">
+        <seg>Губкоподібний</seg>
       </tuv>
     </tu>
     <tu>
