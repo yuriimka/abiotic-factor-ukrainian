@@ -24207,6 +24207,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Security Bot is hibernating.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131225Z" creationid="Yuriy" creationdate="20260506T131225Z">
+        <seg>Робот-охоронець зараз у гібернації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Seeker awaits.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T152600Z" creationid="Yuriy" creationdate="20260422T152600Z">
@@ -25285,6 +25293,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T095618Z" creationid="Yuriy" creationdate="20260326T095618Z">
         <seg>Ця дія незворотна і вам доведеться повторно підключатися до сервера.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is opened some other way.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131206Z" creationid="Yuriy" creationdate="20260506T131206Z">
+        <seg>Це відкривається якимось іншим способом.</seg>
       </tuv>
     </tu>
     <tu>
