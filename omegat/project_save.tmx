@@ -11541,6 +11541,14 @@ She's near blind without her glasses, though.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GATE security systems ignore your presence.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T124843Z" creationid="Yuriy" creationdate="20260506T124843Z">
+        <seg>Системи безпеки БРАМА ігнорують вашу присутність.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GATE's Risk Assessment Committee isn't renowned for being restrictive, but it would have asked some serious questions about this weapon.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T173039Z" creationid="Yuriy" creationdate="20260422T173039Z">
