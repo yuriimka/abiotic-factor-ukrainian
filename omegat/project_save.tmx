@@ -30064,6 +30064,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[10]One of the most fascinating is temporal tethering.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T125423Z" creationid="Yuriy" creationdate="20260506T125423Z">
+        <seg>[10]Одним із найцікавіших є часовий зв'язок.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[11.2]Each of them different, yet seeded with similar life.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T230027Z" creationid="Yuriy" creationdate="20260427T230027Z">
@@ -30156,6 +30164,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T125530Z" creationid="Yuriy" creationdate="20260405T125530Z">
         <seg>[12.8]Бачив я, ту вашу зарплатню Наукової Групи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[13.29]Each entry to an anteverse seems to start a timer, which resets after a given period [19.4]as though a band of time stretches, before snapping back to its origin.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T125458Z" creationid="Yuriy" creationdate="20260506T125458Z">
+        <seg>[13.29]Кожен вхід до антивсесвіту ніби запускає таймер, який скидається після заданого періоду [19.4], ніби плин часу розтягується, перш ніж повернутися до свого початку.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30564,6 +30580,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T230118Z" creationid="Yuriy" creationdate="20260427T230118Z">
         <seg>[24]Нам також відомо, що матеріали, перенесені з Антивсесвіту Б до нашого, [28.4]є енергоємними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[25.0]I am confident we will understand this phenomenon in time, [27.8]but until we do, it violates a dozen scientific principles.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T125718Z" creationid="Yuriy" creationdate="20260506T125718Z">
+        <seg>[25.0]Я впевнений, що з часом ми зрозуміємо це явище, [27.8]але доки ми цього не зробимо, воно порушує десятки наукових принципів.</seg>
       </tuv>
     </tu>
     <tu>
