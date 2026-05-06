@@ -11567,8 +11567,8 @@ She's near blind without her glasses, though.</seg>
       <tuv lang="en">
         <seg>Gah, gymnasiums.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122528Z" creationid="Yuriy" creationdate="20260506T122508Z">
-        <seg>Ох ці тренажерні зали.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122741Z" creationid="Yuriy" creationdate="20260506T122508Z">
+        <seg>Ех ці тренажерні зали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23287,8 +23287,8 @@ Hostile to any and all outsiders, the Canaanites see the works of 'the Enemy' ev
       <tuv lang="en">
         <seg>Sweaty shrines to insecurity.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122616Z" creationid="Yuriy" creationdate="20260506T122616Z">
-        <seg>Спітнілі святині для вад.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122901Z" creationid="Yuriy" creationdate="20260506T122616Z">
+        <seg>Спітнілі святині для комплексів.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29768,6 +29768,22 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T150629Z" creationid="Yuriy" creationdate="20260329T150629Z">
         <seg>Різальні атаки мають більшу ймовірність спричинити ворогу Сильну Кровотечу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your standard-issue firearm for facility security, with a flashlight duct taped to it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123142Z" creationid="Yuriy" creationdate="20260506T123142Z">
+        <seg>Ваша стандартна вогнепальна зброя для охорони комплексу, з приклеєним ліхтариком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your standard-issue firearm for facility security.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122925Z" creationid="Yuriy" creationdate="20260506T122925Z">
+        <seg>Ваша стандартна вогнепальна зброя для охорони комплексу.</seg>
       </tuv>
     </tu>
     <tu>
