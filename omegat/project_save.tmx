@@ -17680,6 +17680,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Night Pass</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123331Z" creationid="Yuriy" creationdate="20260506T123147Z">
+        <seg>Нічна Перепустка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Night Worker</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T114819Z" creationid="Yuriy" creationdate="20260329T114819Z">
@@ -24651,6 +24659,14 @@ Whether actually sentient, or a clever simulation, it’s difficult to know for 
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T153028Z" creationid="Yuriy" creationdate="20260422T153028Z">
         <seg>Колесо обертається.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The wielder of a Night Pass is ignored by GATE security systems.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123210Z" creationid="Yuriy" creationdate="20260506T123210Z">
+        <seg>Носій Нічної Перепустки ігнорується системами безпеки БРАМА.</seg>
       </tuv>
     </tu>
     <tu>
