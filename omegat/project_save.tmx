@@ -8426,6 +8426,14 @@ CONTAINMENT PROTOCOLS: IS-0171-A is to be isolated by a perimeter cordon with a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Damaged Forklift</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131401Z" creationid="Yuriy" creationdate="20260506T131401Z">
+        <seg>Пошкоджений Навантажувач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dangerous</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T175943Z" creationid="Yuriy" creationdate="20260324T182242Z">
@@ -11853,6 +11861,22 @@ Dr. Stern has theorized a hypothetical "mass micro-perforation event" could caus
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T100522Z" creationid="Yuriy" creationdate="20260410T100522Z">
         <seg>Гравітаційний Куб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grayson</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131336Z" creationid="Yuriy" creationdate="20260506T131336Z">
+        <seg>Ґрейсон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grayson Isling</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131305Z" creationid="Yuriy" creationdate="20260506T131305Z">
+        <seg>Ґрейсон Іслінг</seg>
       </tuv>
     </tu>
     <tu>
@@ -24647,6 +24671,14 @@ Whether actually sentient, or a clever simulation, it’s difficult to know for 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The soldiers came through ... they locked down Manufacturing ... [5.8]Wanted information about ... the Silos ... on Level 3 ... [12.3]They weren't Gatekeepers ... they were something else ... [17]I couldn't tell them anything ... [19.5]But if you can find a power cell ... [22.3]We can use the forklift ... to open the door ... [26.6]get out of here through the Surface Tunnel ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131618Z" creationid="Yuriy" creationdate="20260506T131618Z">
+        <seg>Солдати пройшли... вони заблокували Виробництво... [5.8]Запитували інформація про... Силоси... на 3-му рівні... [12.3]Вони не були Брамниками... вони були чимось іншим... [17]Я нічого не міг їм сказати... [19.5]Але якщо ти зможеш знайти енергоядро... [22.3]Ми можемо використати навантажувач... щоб відкрити двері... [26.6]вибратися звідси через Поверхневий Тунель...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The system’s locked us out.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T161946Z" creationid="Yuriy" creationdate="20260408T161946Z">
@@ -25013,6 +25045,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260406T150623Z" creationid="Yuriy" creationdate="20260406T150623Z">
         <seg>Вони що, сплять у них?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They usually only come out at night.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T131234Z" creationid="Yuriy" creationdate="20260506T131234Z">
+        <seg>Зазвичай вони виходять лише вночі.</seg>
       </tuv>
     </tu>
     <tu>
