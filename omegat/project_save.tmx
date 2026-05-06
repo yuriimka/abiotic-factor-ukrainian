@@ -4942,6 +4942,14 @@ Dr. Jenik Veltman has secretly recorded the Blacksmith's speech, and observed th
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Anything else is crazy.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135743Z" creationid="Yuriy" creationdate="20260506T135743Z">
+        <seg>Будь-які дії це божевілля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apparently the CPUs from Security Bots contain security data ...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T164413Z" creationid="Yuriy" creationdate="20260426T164413Z">
@@ -13228,6 +13236,14 @@ How did you manage it?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I don't know what happened.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135821Z" creationid="Yuriy" creationdate="20260506T135821Z">
+        <seg>Я не знаю, що сталося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I don't know why this nickname is still sticking around.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T224730Z" creationid="Yuriy" creationdate="20260427T224730Z">
@@ -13818,6 +13834,14 @@ We do know it's in Boston though!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T105759Z" creationid="Yuriy" creationdate="20260402T105759Z">
         <seg>Я голооооодна</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'm staying right here.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135733Z" creationid="Yuriy" creationdate="20260506T135733Z">
+        <seg>Я залишаюся тут.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30496,6 +30520,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[14]Something has happened to the perforation system - the portals have gone haywire, [18.6]but that shouldn't be able to happen ...  [20.4]I wish I knew what was happening in Labs right now!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135710Z" creationid="Yuriy" creationdate="20260506T135710Z">
+        <seg>[14]Щось сталося з системою перфорації - портали вийшли з ладу, [18.6]Але цього не мало б статися... [20.4]Хотів би я знати, що зараз відбувається в Лабораторіях!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[15.45]The surviving residents have been evacuated, [17.75]and a cordon established around the town, citing a chemical spill.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T163448Z" creationid="Yuriy" creationdate="20260408T163448Z">
@@ -31008,6 +31040,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[2]They’re saying evacuate, but have you seen what's prowling around out there?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135832Z" creationid="Yuriy" creationdate="20260506T135832Z">
+        <seg>[2]Вони кажуть про евакуацію, але чи бачив ти, що там нишпорить?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[2]Today I discovered that Dr. Stern's latest software experiment [6.7]was simulating the entire facility - [9.4]a microcosm of Cascade, and every staff member within it, [13.6]even myself, I gather.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T120011Z" creationid="Yuriy" creationdate="20260506T115857Z">
@@ -31100,6 +31140,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T130009Z" creationid="Yuriy" creationdate="20260405T130009Z">
         <seg>[3.7]Коротше, пора тобі змотувати вудки, як на мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[3.7]If the portal system has malfunctioned, [5.9]there's no telling what could have found its way into the facility.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135806Z" creationid="Yuriy" creationdate="20260506T135806Z">
+        <seg>[3.7]Якщо портальна система вийшла з ладу, [5.9]невідомо, що могло потрапити до комплексу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31429,6 +31477,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T170400Z" creationid="Yuriy" creationdate="20260407T170400Z">
         <seg>[6.75]Це нагадує мені часи, коли БРАМА винищили орду з Антивсесвіту 83, [10.75]але зараз це армія релігійних психів, а не зграя тих водяних кажанів-клонів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[6.7]Clearly some escapees from the Wildlife Pens.[9.9] Things must be really bad if we can't even keep basic containment protocols in check</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T135936Z" creationid="Yuriy" creationdate="20260506T135936Z">
+        <seg>[6.7] Очевидно, це якісь утікачі з Вольєрів для Фауни.[9.9] Справи справді кепські, якщо ми не можемо дотриматися навіть базових протоколів стримування.</seg>
       </tuv>
     </tu>
     <tu>
