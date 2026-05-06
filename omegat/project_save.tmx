@@ -30408,6 +30408,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[16.0]It's humbling, if not a little frightening, to watch lifeforms alter so quickly.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T132921Z" creationid="Yuriy" creationdate="20260506T132921Z">
+        <seg>[16.0]Це поважно і навіть трохи лякаюче, спостерігати за зміною їхньої форми життя.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[16.3]If they think I'm walking all that way, through their toxic machine shops, [20]they can think again.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122242Z" creationid="Yuriy" creationdate="20260506T122242Z">
@@ -30640,6 +30648,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[21.0]The explosion of Anteverse flora in Reactors was far from an isolated event.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T132936Z" creationid="Yuriy" creationdate="20260506T132936Z">
+        <seg>[21.0]Вибух флори Антивсесвіту в Реакторах був далеко не поодинокою подією.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[21.15]See if you can let him in.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T171907Z" creationid="Yuriy" creationdate="20260329T171907Z">
@@ -30772,6 +30788,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260322T221202Z" creationid="Yuriy" creationdate="20260322T221202Z">
         <seg>[25.6]І це може вас туди привести.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[25.6]It goes to the very nature of life in that realm.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T133432Z" creationid="Yuriy" creationdate="20260506T133432Z">
+        <seg>[25.6]Це також стосується природи життя в цьому вимірі.</seg>
       </tuv>
     </tu>
     <tu>
