@@ -4058,8 +4058,8 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
       <tuv lang="en">
         <seg>Alice</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260323T212256Z" creationid="Yuriy" creationdate="20260323T212256Z">
-        <seg>Аліса</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123948Z" creationid="Yuriy" creationdate="20260323T212256Z">
+        <seg>Еліс</seg>
       </tuv>
     </tu>
     <tu>
@@ -4074,8 +4074,8 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
       <tuv lang="en">
         <seg>Alice Hong came out of Security Sector, and locked the blast door behind her.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123831Z" creationid="Yuriy" creationdate="20260506T123831Z">
-        <seg>Еліс Гонґ вийшла з Сектора Безпеки та замкнула за собою вибухотривкі двері.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T124224Z" creationid="Yuriy" creationdate="20260506T123831Z">
+        <seg>Еліс Хонґ вийшла з Сектора Безпеки та замкнула за собою вибухотривкі двері.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19068,6 +19068,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260411T101059Z" creationid="Yuriy" creationdate="20260411T101059Z">
         <seg>Можливо це можна використати ще десь...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Perhaps that's for the best.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T123919Z" creationid="Yuriy" creationdate="20260506T123919Z">
+        <seg>Можливо, це й найкраще.</seg>
       </tuv>
     </tu>
     <tu>
