@@ -18504,6 +18504,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One-Seven-One is a stationary, sessile entity, [11.7]that traps its food with a retractable tentacle.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T132151Z" creationid="Yuriy" creationdate="20260506T132151Z">
+        <seg>Один-Сім-Один - це нерухома, сидяча сутність, [11.7] яка ловить свою їжу за допомогою висувного щупальця.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One-Seven-One, [6.4]or the Carbuncle as Peters was calling it, [9.7]is the larval form of IS One-Seven-Three [13]and, almost certainly, One-Seven-Eight.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T155435Z" creationid="Yuriy" creationdate="20260408T154915Z">
@@ -30344,6 +30352,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[14.8]The experience of being caught is rather like being attacked by an angry pizza.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T132211Z" creationid="Yuriy" creationdate="20260506T132211Z">
+        <seg>[14.8]Відчуття, коли тебе спіймали, схоже на напад розлюченої піци.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[14.92]For it was always so.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T152635Z" creationid="Yuriy" creationdate="20260422T152635Z">
@@ -30492,6 +30508,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260430T235619Z" creationid="Yuriy" creationdate="20260430T235619Z">
         <seg>[19.29]Хоча Консіліум Ітер вказує на віддаленість небезпеки, надзвичайна диференціація Локусу підвищує ризик випадкового висновку. [31.90]Коли це поєднується з відомим відкриттям Локусу дослідниками БРАМА, ми висловлюємо серйозне занепокоєння.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[19.7]It presents no real threat, but leaves an enduring, [22.64]not entirely unpleasant smell on anything it touches.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T132232Z" creationid="Yuriy" creationdate="20260506T132232Z">
+        <seg>[19.7]Воно не становить реальної загрози, але залишає стійкий, [22.64]не зовсім неприємний запах на всьому, до чого торкається.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30748,6 +30772,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T153405Z" creationid="Yuriy" creationdate="20260422T153405Z">
         <seg>[26.33]Коли все є зміною, споглядай незмінність усього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[26.7]Suggestions for possible applications include perfume, [29.7]industrial scents, and olfactory-based crowd control weapons.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T132604Z" creationid="Yuriy" creationdate="20260506T132604Z">
+        <seg>[26.7]Пропозиції щодо можливих застосувань включають парфуми, [29.7]промислові аромати та зброю для контролю натовпу на основі нюху.</seg>
       </tuv>
     </tu>
     <tu>
