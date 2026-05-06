@@ -29818,8 +29818,8 @@ Current Points Leftover: {0}</seg>
       <tuv lang="en">
         <seg>[11.6]As its bio systems work much more swiftly here, it learns extremely rapidly.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T193940Z" creationid="Yuriy" creationdate="20260506T193940Z">
-        <seg>[11.6]Оскільки їх біосистеми працюють тут набагато швидше, воно навчається надзвичайно швидко.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T193959Z" creationid="Yuriy" creationdate="20260506T193940Z">
+        <seg>[11.6]Оскільки його біосистеми працюють тут набагато швидше, воно навчається надзвичайно швидко.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30028,6 +30028,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T163800Z" creationid="Yuriy" creationdate="20260408T163800Z">
         <seg>[17.4]Або, точніше, ті, хто знає, відмовляються говорити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[17.8]Many on the Executive Committee will want a weapon, I'm sure - [21.5]their imagination reaches no further - [24.8]but if we can just breed the aggression out, [27.5]the Peccary would make an extraordinary workbeast.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T194036Z" creationid="Yuriy" creationdate="20260506T194036Z">
+        <seg>[17.8]Багато хто з Виконавчого Комітету захоче зброю, я впевнений - [21.5]їхня уява не сягає далі - [24.8]але якщо нам просто вдасться позбутися агресії, [27.5]Пекарі стане надзвичайним робочим звіром.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30436,6 +30444,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T172047Z" creationid="Yuriy" creationdate="20260407T172047Z">
         <seg>[31.0]Якщо тобі щось потрібно, я допоможу - обладнання, спорядження, будь-що - [37.3]я змайструю, якщо матимеш потрібні мені деталі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[31.0]Our world has enough toys of war.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T194041Z" creationid="Yuriy" creationdate="20260506T194041Z">
+        <seg>[31.0]У нашому світі достатньо військових іграшок.</seg>
       </tuv>
     </tu>
     <tu>
