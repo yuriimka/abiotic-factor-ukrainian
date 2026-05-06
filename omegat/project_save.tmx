@@ -13630,6 +13630,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm not ready yet ... just a little longer ... [3]Maybe they'll fix this and I can get back to my work.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122312Z" creationid="Yuriy" creationdate="20260506T122312Z">
+        <seg>Я ще не готова... почекаю ще трохи... [3]Можливо, вони це виправлять і я зможу повернутися до роботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm not sure what just happened, but I suspect I'm not going to like the answer, if I can get one at all.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T105918Z" creationid="Yuriy" creationdate="20260504T105918Z">
@@ -30112,6 +30120,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[16.3]If they think I'm walking all that way, through their toxic machine shops, [20]they can think again.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122242Z" creationid="Yuriy" creationdate="20260506T122242Z">
+        <seg>[16.3]Якщо вони думають, що я пройду весь цей шлях, через їхні токсичні машинні майстерні, [20]то нехай подумають ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[16.52]I was not in the mood for a lesson in aesthetics, and pointed out that so does a mushroom cloud.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T155153Z" creationid="Yuriy" creationdate="20260408T155153Z">
@@ -30829,6 +30845,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260331T164538Z" creationid="Yuriy" creationdate="20260331T164538Z">
         <seg>[5]Доктор Веренков надто нетерплячий і подивися, що сталося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[5]I have samples denaturing as we speak.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T122436Z" creationid="Yuriy" creationdate="20260506T122436Z">
+        <seg>[5]Прямо зараз у мене денатуруються зразки.</seg>
       </tuv>
     </tu>
     <tu>
