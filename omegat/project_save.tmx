@@ -5224,6 +5224,14 @@ You are the host of this game and anyone connected will be removed from the game
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At least nothing in the C-Blocks has escaped ... as far as we know.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220215Z" creationid="Yuriy" creationdate="20260514T220215Z">
+        <seg>Принаймні, нічого з блоку В не втекло ... наскільки нам відомо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At max speed, you can stagger any medium-sized enemy if collided with.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T102117Z" creationid="Yuriy" creationdate="20260329T102117Z">
@@ -6396,6 +6404,14 @@ You are the host of this game and anyone connected will be removed from the game
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T151623Z" creationid="Yuriy" creationdate="20260405T151623Z">
         <seg>Але не тут, добре?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But that's a whole sector away.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215709Z" creationid="Yuriy" creationdate="20260514T215709Z">
+        <seg>Але це аж за сектор звідси.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16390,8 +16406,8 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       <tuv lang="en">
         <seg>Looks like I was wrong.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215543Z" creationid="Yuriy" creationdate="20260514T215543Z">
-        <seg>Схоже, я помилялася.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215604Z" creationid="Yuriy" creationdate="20260514T215543Z">
+        <seg>Схоже, я схибила.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30064,6 +30080,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[16.3]If they think I'm walking all that way, through their toxic machine shops, [20]they can think again.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215815Z" creationid="Yuriy" creationdate="20260514T215815Z">
+        <seg>[16.3]Якщо вони думають, що я пройду весь цей шлях, через їхні токсичні машинні майстерні, [20]то нехай подумають ще раз.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[16.52]I was not in the mood for a lesson in aesthetics, and pointed out that so does a mushroom cloud.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T155153Z" creationid="Yuriy" creationdate="20260408T155153Z">
@@ -30901,6 +30925,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T145727Z" creationid="Yuriy" creationdate="20260422T145727Z">
         <seg>[8.2]Я бачу, ти пройшов довгий шлях і шукаєш порятунку з глибин, із логова тіней, де наші види не можуть співіснувати... [19.5]Ти нашої породи та не нашої крові і я прийшла із попередженням, що є дарунком.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[8.3]That useless rent-a-cop in the plaza said to go through Manufacturing, [12.26]then head for the Surface Tunnel I suppose...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215658Z" creationid="Yuriy" creationdate="20260514T215658Z">
+        <seg>[8.3]Той нікчемний орендований коп, що в лобі, сказав пройти через Виробництво, [12.26]а потім, мабуть, прямувати до Наземного тунелю...</seg>
       </tuv>
     </tu>
     <tu>
