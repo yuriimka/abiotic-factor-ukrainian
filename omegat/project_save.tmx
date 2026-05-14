@@ -11549,6 +11549,14 @@ She's near blind without her glasses, though.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gah, gymnasiums.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215009Z" creationid="Yuriy" creationdate="20260514T215009Z">
+        <seg>Ах, тренажерні зали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gameplay</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T121145Z" creationid="Yuriy" creationdate="20260405T121145Z">
@@ -13146,6 +13154,14 @@ We do know it's in Boston though!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T162427Z" creationid="Yuriy" creationdate="20260422T162427Z">
         <seg>Мабуть.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I hate them.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215011Z" creationid="Yuriy" creationdate="20260514T215011Z">
+        <seg>Я їх ненавиджу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23193,6 +23209,14 @@ Hostile to any and all outsiders, the Canaanites see the works of 'the Enemy' ev
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T100121Z" creationid="Yuriy" creationdate="20260329T073815Z">
         <seg>Виживання</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sweaty shrines to insecurity.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215230Z" creationid="Yuriy" creationdate="20260514T215230Z">
+        <seg>Спітнілі святині для комплексів.</seg>
       </tuv>
     </tu>
     <tu>
