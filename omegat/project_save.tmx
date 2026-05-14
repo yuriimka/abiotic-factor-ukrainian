@@ -16388,6 +16388,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Looks like I was wrong.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215543Z" creationid="Yuriy" creationdate="20260514T215543Z">
+        <seg>Схоже, я помилялася.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Looks like security doors in this sector could be vulnerable to hacking.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T164322Z" creationid="Yuriy" creationdate="20260426T164322Z">
