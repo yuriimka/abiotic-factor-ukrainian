@@ -11817,6 +11817,14 @@ Dr. Stern has theorized a hypothetical "mass micro-perforation event" could caus
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Good luck out there.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T221252Z" creationid="Yuriy" creationdate="20260514T221252Z">
+        <seg>Удачі там.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gotta admit, I figured an underground facility'd be a bit more safe than this.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T130338Z" creationid="Yuriy" creationdate="20260405T130338Z">
@@ -13104,6 +13112,14 @@ How did you manage it?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260501T000156Z" creationid="Yuriy" creationdate="20260501T000156Z">
         <seg>Я не знаю, чи вибралася вона, чи ні...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I don't know what happened.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T221105Z" creationid="Yuriy" creationdate="20260514T221105Z">
+        <seg>Я не знаю, що сталося.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30528,6 +30544,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[2]They’re saying evacuate, but have you seen what's prowling around out there?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T221126Z" creationid="Yuriy" creationdate="20260514T221126Z">
+        <seg>[2]Вони кажуть про евакуацію, але чи бачили ви, що там нишпорить?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[3.0] I'm keeping an eye on it, because someone's got to, and Frake'd kill me if something went wrong.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T171812Z" creationid="Yuriy" creationdate="20260407T171812Z">
@@ -30933,6 +30957,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T170400Z" creationid="Yuriy" creationdate="20260407T170400Z">
         <seg>[6.75]Це нагадує мені часи, коли БРАМА винищили орду з Антивсесвіту 83, [10.75]але зараз це армія релігійних психів, а не зграя тих водяних кажанів-клонів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[6.7]Clearly some escapees from the Wildlife Pens.[9.9] Things must be really bad if we can't even keep basic containment protocols in check</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T221207Z" creationid="Yuriy" creationdate="20260514T221207Z">
+        <seg>[6.7] Очевидно, це якісь утікачі з вольєрів для фауни.[9.9] Справи справді кепські, якщо ми не можемо дотриматися навіть базових протоколів стримування.</seg>
       </tuv>
     </tu>
     <tu>
