@@ -8902,6 +8902,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dr Derek Manse reporting, [1.9]Research Director, GATE Cascade Research Facility.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220558Z" creationid="Yuriy" creationdate="20260514T220550Z">
+        <seg>Доктор Дерек Манс доповідає, [1.9] директор з досліджень, Комплекс БРАМА Каскад.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dr Derek Manse, Cascade.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T163345Z" creationid="Yuriy" creationdate="20260408T163345Z">
@@ -30805,6 +30813,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T152310Z" creationid="Yuriy" creationdate="20260422T152310Z">
         <seg>[5.7]Вільна, бо змогла втекти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[5.7]Originating in Anteverse 2, [8]I.S.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220606Z" creationid="Yuriy" creationdate="20260514T220606Z">
+        <seg>[5.7]Походження з Антеверсу 2, [8]І.С.</seg>
       </tuv>
     </tu>
     <tu>
