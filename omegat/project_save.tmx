@@ -12932,6 +12932,14 @@ How did you manage it?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hygroscopic</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215320Z" creationid="Yuriy" creationdate="20260514T215320Z">
+        <seg>Губкоподібний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hyper-Dense Neural Chip</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T123801Z" creationid="Yuriy" creationdate="20260410T123801Z">
@@ -13482,6 +13490,14 @@ We do know it's in Boston though!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T151415Z" creationid="Yuriy" creationdate="20260405T151415Z">
         <seg>Я гадав, вони йдуть на поміч!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I thought this might be a safe place to wait until they sorted this out ... [4.1]whatever 'this' is.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215538Z" creationid="Yuriy" creationdate="20260514T215538Z">
+        <seg>Я подумала, що це може бути безпечним місцем, щоб зачекати, поки вони розберуться з цим... [4.1]що б там 'це' не було.</seg>
       </tuv>
     </tu>
     <tu>
