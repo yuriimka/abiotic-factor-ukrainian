@@ -4910,6 +4910,14 @@ Dr. Jenik Veltman has secretly recorded the Blacksmith's speech, and observed th
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Anything else is crazy.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220909Z" creationid="Yuriy" creationdate="20260514T220909Z">
+        <seg>Інші дії – це божевілля.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apparently the CPUs from Security Bots contain security data ...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T164413Z" creationid="Yuriy" creationdate="20260426T164413Z">
@@ -13670,6 +13678,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm staying right here.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220855Z" creationid="Yuriy" creationdate="20260514T220855Z">
+        <seg>Я залишаюся тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm still waiting on your report.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T154937Z" creationid="Yuriy" creationdate="20260426T154937Z">
@@ -18380,6 +18396,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T172145Z" creationid="Yuriy" creationdate="20260407T172145Z">
         <seg>Свій серед карбункулів...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One-Seven-One is a stationary, sessile entity, [11.7]that traps its food with a retractable tentacle.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220634Z" creationid="Yuriy" creationdate="20260514T220634Z">
+        <seg>Один-Сім-Один – це нерухома, сидяча сутність, [11.7] яка ловить свою їжу за допомогою висувного щупальця.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30064,6 +30088,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[14.8]The experience of being caught is rather like being attacked by an angry pizza.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220723Z" creationid="Yuriy" creationdate="20260514T220723Z">
+        <seg>[14.8]Відчуття, коли тебе спіймали, схоже на напад розлюченої піци.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[14.92]For it was always so.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T152635Z" creationid="Yuriy" creationdate="20260422T152635Z">
@@ -30212,6 +30244,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260430T235619Z" creationid="Yuriy" creationdate="20260430T235619Z">
         <seg>[19.29]Хоча Консіліум Ітер вказує на віддаленість небезпеки, надзвичайна диференціація Локусу підвищує ризик випадкового висновку. [31.90]Коли це поєднується з відомим відкриттям Локусу дослідниками БРАМА, ми висловлюємо серйозне занепокоєння.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[19.7]It presents no real threat, but leaves an enduring, [22.64]not entirely unpleasant smell on anything it touches.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220737Z" creationid="Yuriy" creationdate="20260514T220737Z">
+        <seg>[19.7]Воно не становить реальної загрози, але залишає стійкий, [22.64]не зовсім неприємний запах на всьому, до чого торкається.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30456,6 +30496,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[26.7]Suggestions for possible applications include perfume, [29.7]industrial scents, and olfactory-based crowd control weapons.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220851Z" creationid="Yuriy" creationdate="20260514T220851Z">
+        <seg>[26.7]Пропозиції щодо можливих застосувань включають парфуми, [29.7]промислові аромати та зброю для контролю натовпу на основі нюху.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[28.2]One'a Frake's people, said there's a gateway in there.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T170824Z" creationid="Yuriy" creationdate="20260407T170824Z">
@@ -30564,6 +30612,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T130009Z" creationid="Yuriy" creationdate="20260405T130009Z">
         <seg>[3.7]Коротше, пора тобі змотувати вудки, як на мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[3.7]If the portal system has malfunctioned, [5.9]there's no telling what could have found its way into the facility.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220949Z" creationid="Yuriy" creationdate="20260514T220949Z">
+        <seg>[3.7]Якщо портальна система вийшла з ладу, [5.9]невідомо, що могло потрапити в комплекс.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30819,8 +30875,8 @@ Current Points Leftover: {0}</seg>
       <tuv lang="en">
         <seg>[5.7]Originating in Anteverse 2, [8]I.S.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220606Z" creationid="Yuriy" creationdate="20260514T220606Z">
-        <seg>[5.7]Походження з Антеверсу 2, [8]І.С.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220619Z" creationid="Yuriy" creationdate="20260514T220606Z">
+        <seg>[5.7]Походячи з Антивсесвіту 2, [8]І.С.</seg>
       </tuv>
     </tu>
     <tu>
