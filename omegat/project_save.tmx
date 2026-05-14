@@ -14464,6 +14464,14 @@ Incidentally, autopsies suggest they're the second stage in the lifecycle of a m
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If I'm going to be here much longer, I need somewhere to sleep.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220347Z" creationid="Yuriy" creationdate="20260514T220347Z">
+        <seg>Якщо я затримаюся тут надовше, мені знадобиться місце для сну</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If I'm going to open the Spillway's flow control and get out of here, I need to reactivate three devices:_x000D_
 _x000D_
 &gt; Reboot Spillway Computer_x000D_
@@ -19008,6 +19016,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Perhaps I should make a bed?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220444Z" creationid="Yuriy" creationdate="20260514T220444Z">
+        <seg>Можливо, мені варто зібрати ліжко?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perhaps it can be repurposed...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260411T101059Z" creationid="Yuriy" creationdate="20260411T101059Z">
@@ -21637,6 +21653,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T112541Z" creationid="Yuriy" creationdate="20260410T112541Z">
         <seg>Фігурка Робота-охоронця</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Security Bots typically hibernate in these pods, but it's not here now.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220340Z" creationid="Yuriy" creationdate="20260514T220340Z">
+        <seg>Роботи-охоронці зазвичай впадають у гібернацію у цих капсулах, але наразі його немає.</seg>
       </tuv>
     </tu>
     <tu>
