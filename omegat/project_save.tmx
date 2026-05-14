@@ -13590,6 +13590,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm not ready yet ... just a little longer ... [3]Maybe they'll fix this and I can get back to my work.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T214853Z" creationid="Yuriy" creationdate="20260514T214853Z">
+        <seg>Я ще не готова... ще трохи... [3]Можливо, вони виправлять це і я зможу повернутися до роботи.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm not sure what just happened, but I suspect I'm not going to like the answer, if I can get one at all.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T105918Z" creationid="Yuriy" creationdate="20260504T105918Z">
@@ -30709,6 +30717,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260331T164538Z" creationid="Yuriy" creationdate="20260331T164538Z">
         <seg>[5]Доктор Веренков надто нетерплячий і подивися, що сталося.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[5]I have samples denaturing as we speak.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T214938Z" creationid="Yuriy" creationdate="20260514T214938Z">
+        <seg>[5]Прямо зараз у мене денатуруються зразки.</seg>
       </tuv>
     </tu>
     <tu>
