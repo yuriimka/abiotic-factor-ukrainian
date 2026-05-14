@@ -8780,6 +8780,14 @@ The aim of the project remains to create fully sentient artificial intelligence,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you have ANY idea what's going on?!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T221518Z" creationid="Yuriy" creationdate="20260514T221346Z">
+        <seg>Ти маєш хоча б ЯКЕСЬ уявлення, що відбувається?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you think we'll get a Nobel Prize for this?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T162134Z" creationid="Yuriy" creationdate="20260408T162134Z">
@@ -30356,6 +30364,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T125143Z" creationid="Yuriy" creationdate="20260405T125143Z">
         <seg>[2.7]Рація здохла, половина дверей полетіла під три чорти, а тепер ще ці дрібні стрибунці повсюди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[2.9]Oh, have you only got blue clearance, too?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T221401Z" creationid="Yuriy" creationdate="20260514T221401Z">
+        <seg>[2.9] Ой, у тебе теж лише синій пропуск?</seg>
       </tuv>
     </tu>
     <tu>
