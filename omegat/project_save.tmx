@@ -4154,6 +4154,14 @@ In 1990 she accepted secondment to the GATE Cascade Research Facility, where she
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All portal world resources have reset.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223820Z" creationid="Yuriy" creationdate="20260515T223820Z">
+        <seg>Усі портальні ресурси відновлено.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All signs point towards Power Cells being taken through the Silo 3 portal...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T104727Z" creationid="Yuriy" creationdate="20260504T104727Z">
@@ -12105,6 +12113,15 @@ Dr. Stern has theorized a hypothetical "mass micro-perforation event" could caus
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>H, _x000D_
+So we finally caught one of those dog things.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223655Z" creationid="Yuriy" creationdate="20260515T223655Z">
+        <seg>H, _x000D_ Отже, ми нарешті спіймали одну з цих собачих істот.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HACK INTO SILO 3?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T174500Z" creationid="Yuriy" creationdate="20260408T174500Z">
@@ -16312,6 +16329,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T170500Z" creationid="Yuriy" creationdate="20260426T170500Z">
         <seg>Певний захист для ніг.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lenora knows very well that I appreciate her work.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223558Z" creationid="Yuriy" creationdate="20260515T223558Z">
+        <seg>Ленора чудово знає, що я ціную її роботу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24691,6 +24716,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T155951Z" creationid="Yuriy" creationdate="20260329T155951Z">
         <seg>Вартість будівництва укріплень, таких як барикади, стіни та пандуси, зменшується вдвічі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dog thing</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223623Z" creationid="Yuriy" creationdate="20260515T223623Z">
+        <seg>Ситуація із собакою</seg>
       </tuv>
     </tu>
     <tu>
