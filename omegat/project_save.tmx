@@ -4950,6 +4950,14 @@ Dr. Jenik Veltman has secretly recorded the Blacksmith's speech, and observed th
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apologies for the late check-in on this, I was held up by a Keystone visitor.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212814Z" creationid="Yuriy" creationdate="20260515T212814Z">
+        <seg>Вибачте за пізню реєстрацію, мене затримав відвідувач з .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Apparently the CPUs from Security Bots contain security data ...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T164413Z" creationid="Yuriy" creationdate="20260426T164413Z">
@@ -7454,6 +7462,14 @@ You can select POSITIVE and NEGATIVE traits.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T152143Z" creationid="Yuriy" creationdate="20260405T151027Z">
         <seg>Перевір технічну комору на 3-ому Рівні біля Силосної шахти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check-In Terminal ({0})</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212726Z" creationid="Yuriy" creationdate="20260515T212726Z">
+        <seg>Термінал реєстрації ({0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -13706,6 +13722,14 @@ We do know it's in Boston though!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T205941Z" creationid="Yuriy" creationdate="20260515T205941Z">
         <seg>Я скоро тебе наздожену...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I'll get Frake and her people to review the system immediately.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212750Z" creationid="Yuriy" creationdate="20260515T212738Z">
+        <seg>Я попрошу Фрейк та її людей перевірити систему негайно.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27177,6 +27201,14 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T223716Z" creationid="Yuriy" creationdate="20260427T223537Z">
         <seg>У нас можуть бути проблеми в Офісах - нові охоронні боти є вразливістю системи безпеки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We may need to install another tier of failsafes.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212740Z" creationid="Yuriy" creationdate="20260515T212740Z">
+        <seg>Можливо, нам доведеться встановити ще один рівень запобіжних заходів.</seg>
       </tuv>
     </tu>
     <tu>
