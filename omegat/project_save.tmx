@@ -3504,6 +3504,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ALL of our necks are on the line, in the grandest sense.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223534Z" creationid="Yuriy" creationdate="20260515T223534Z">
+        <seg>УСІ наші шиї на кону, у найширшому сенсі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>APPLY</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T095233Z" creationid="Yuriy" creationdate="20260326T095233Z">
@@ -8930,6 +8938,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T111016Z" creationid="Yuriy" creationdate="20260402T111016Z">
         <seg>Не сподівайтеся, що ця штука довговічна.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't forget whose neck is really on the line here.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223434Z" creationid="Yuriy" creationdate="20260515T223434Z">
+        <seg>Не забувайте, чия шия на кону насамперед.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24849,6 +24865,14 @@ Information on his life before Canaan is scarce, indicating possible erasure.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T214108Z" creationid="Yuriy" creationdate="20260515T214108Z">
         <seg>Цифри не сходяться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The only reason you have data is because Lenora went and got it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223447Z" creationid="Yuriy" creationdate="20260515T223234Z">
+        <seg>Дані у вас лише тому, що Ленора їх отримала.</seg>
       </tuv>
     </tu>
     <tu>
