@@ -10144,8 +10144,8 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
       <tuv lang="en">
         <seg>Even with the higher entropic quotient, there's excess energy coming through the Gateways.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T214545Z" creationid="Yuriy" creationdate="20260515T214132Z">
-        <seg>Навіть за вищого ентропійного коефіцієнта, надлишок енергії проходить через Брами.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T214643Z" creationid="Yuriy" creationdate="20260515T214132Z">
+        <seg>Навіть за вищого ентропійного коефіцієнта, надлишок енергії проходить крізь Брами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21245,6 +21245,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T190340Z" creationid="Yuriy" creationdate="20260324T190340Z">
         <seg>Передати свої координати колегам</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right, I'm taking the tablets too.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T214649Z" creationid="Yuriy" creationdate="20260515T214649Z">
+        <seg>Так, я теж приймаю таблетки.</seg>
       </tuv>
     </tu>
     <tu>
