@@ -9222,6 +9222,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dr. Hilda V. Dixon</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T230030Z" creationid="Yuriy" creationdate="20260515T230030Z">
+        <seg>Докторка Хільда В. Діксон</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dr. Jager</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260401T094839Z" creationid="Yuriy" creationdate="20260401T094839Z">
@@ -10931,6 +10939,14 @@ Error: {Error}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Field Researcher</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T230042Z" creationid="Yuriy" creationdate="20260515T230042Z">
+        <seg>Польовий Дослідник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Field of View</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T121155Z" creationid="Yuriy" creationdate="20260405T121155Z">
@@ -11689,6 +11705,14 @@ She's near blind without her glasses, though.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T114016Z" creationid="Yuriy" creationdate="20260410T113919Z">
         <seg>Ящик Охоронців БРАМА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GATE TR Operator and Field Researcher.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T230252Z" creationid="Yuriy" creationdate="20260515T230252Z">
+        <seg>Оператор БРАМА ТР та Польовий Дослідник.</seg>
       </tuv>
     </tu>
     <tu>
