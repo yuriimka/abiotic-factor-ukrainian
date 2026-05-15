@@ -19600,6 +19600,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please copy me on me any updates.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T220134Z" creationid="Yuriy" creationdate="20260515T220134Z">
+        <seg>Будь ласка, доповідайте мені при будь-якій зміні.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please let us know before-hand next time.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T151052Z" creationid="Yuriy" creationdate="20260405T151052Z">
@@ -24179,6 +24187,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260430T235626Z" creationid="Yuriy" creationdate="20260430T235626Z">
         <seg>Ось що я мушу робити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That's what he's there for.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T215732Z" creationid="Yuriy" creationdate="20260515T215732Z">
+        <seg>Для цього він і там.</seg>
       </tuv>
     </tu>
     <tu>
