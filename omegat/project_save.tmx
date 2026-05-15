@@ -8902,8 +8902,8 @@ The aim of the project remains to create fully sentient artificial intelligence,
       <tuv lang="en">
         <seg>Do NOT reignite the Rift!</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T232832Z" creationid="Yuriy" creationdate="20260515T232832Z">
-        <seg>НЕ відкривайте Розлом!</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T233343Z" creationid="Yuriy" creationdate="20260515T232832Z">
+        <seg>НЕ відкривай Розлом!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22610,6 +22610,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show temperatures in Celsius instead of the default Fahrenheit.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T233608Z" creationid="Yuriy" creationdate="20260515T233608Z">
+        <seg>Показувати температуру в градусах Цельсія замість стандартних – Фаренгейта.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shower</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T124937Z" creationid="Yuriy" creationdate="20260410T124937Z">
@@ -24300,6 +24308,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260401T100113Z" creationid="Yuriy" creationdate="20260401T100113Z">
         <seg>Телевізор</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Temperature In Celsius</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T233537Z" creationid="Yuriy" creationdate="20260515T233537Z">
+        <seg>Температура в Цельсіях</seg>
       </tuv>
     </tu>
     <tu>
@@ -26856,6 +26872,14 @@ With a research bakground in everything from cognitive evolution to neutrino det
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T161246Z" creationid="Yuriy" creationdate="20260408T161246Z">
         <seg>Невідоме Місце</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unknown Militant</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T233532Z" creationid="Yuriy" creationdate="20260515T233532Z">
+        <seg>Невідомий Боєць</seg>
       </tuv>
     </tu>
     <tu>
@@ -32014,8 +32038,8 @@ Current Points Leftover: {0}</seg>
       <tuv lang="en">
         <seg>[9.4]My brethren crossed over, to seal your folly!</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T233022Z" creationid="Yuriy" creationdate="20260515T233022Z">
-        <seg>[9.4]Мої брати пройшли крізь, щоб запобігти вашим дурницям!</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T233339Z" creationid="Yuriy" creationdate="20260515T233022Z">
+        <seg>[9.4]Мої побратими пройшли крізь, щоб запобігти вашим дурницям!</seg>
       </tuv>
     </tu>
     <tu>
