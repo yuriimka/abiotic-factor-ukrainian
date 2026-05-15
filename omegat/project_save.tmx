@@ -12116,8 +12116,8 @@ Dr. Stern has theorized a hypothetical "mass micro-perforation event" could caus
         <seg>H, _x000D_
 So we finally caught one of those dog things.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223655Z" creationid="Yuriy" creationdate="20260515T223655Z">
-        <seg>H, _x000D_ Отже, ми нарешті спіймали одну з цих собачих істот.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223900Z" creationid="Yuriy" creationdate="20260515T223655Z">
+        <seg>Х, _x000D_Отже, ми нарешті спіймали одну з цих собачих істот.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13961,6 +13961,14 @@ Incidentally, autopsies suggest they're the second stage in the lifecycle of a m
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I've noticed their behaviour is different here than in Anteverse 2.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T224113Z" creationid="Yuriy" creationdate="20260515T224113Z">
+        <seg>Я помітив, що їхня поведінка тут відрізняється від того, що було в Антивсесвіті 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've opened the way to the Reactors, I hope that was the right thing to do ...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T105932Z" creationid="Yuriy" creationdate="20260504T105932Z">
@@ -15745,6 +15753,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T163012Z" creationid="Yuriy" creationdate="20260326T163012Z">
         <seg>ВИГНАТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>KP called it a 'peccary' until she realized how large it was.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223938Z" creationid="Yuriy" creationdate="20260515T223938Z">
+        <seg>КП назвала це 'пекарі', поки не зрозуміла, наскільки воно велике.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24722,8 +24738,8 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
       <tuv lang="en">
         <seg>The dog thing</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223623Z" creationid="Yuriy" creationdate="20260515T223623Z">
-        <seg>Ситуація із собакою</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223917Z" creationid="Yuriy" creationdate="20260515T223623Z">
+        <seg>Собакоподібний</seg>
       </tuv>
     </tu>
     <tu>
