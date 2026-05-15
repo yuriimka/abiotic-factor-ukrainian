@@ -25802,6 +25802,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is opened some other way.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T232429Z" creationid="Yuriy" creationdate="20260515T232429Z">
+        <seg>Це відкривається якимось іншим способом.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is worse than last time ...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T222833Z" creationid="Yuriy" creationdate="20260427T222833Z">
