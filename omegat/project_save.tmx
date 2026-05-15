@@ -31719,6 +31719,16 @@ A woman renowned for her purpose and precision, she has voiced her doubts about 
       <tuv lang="en">
         <seg>_x000D_
 _x000D_
+As for your gateway problem, tell Sergei.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T215702Z" creationid="Yuriy" creationdate="20260515T215702Z">
+        <seg>_x000D_ _x000D_ Щодо вашої проблеми зі шлюзом, розкажіть про це Сергію.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>_x000D_
+_x000D_
 Believes that something serious may have gone wrong in Labs Sector.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T161623Z" creationid="Yuriy" creationdate="20260422T161623Z">
