@@ -24751,6 +24751,14 @@ Whether actually sentient, or a clever simulation, it’s difficult to know for 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The soldiers came through ... they locked down Manufacturing ... [5.8]Wanted information about ... the Silos ... on Level 3 ... [12.3]They weren't Gatekeepers ... they were something else ... [17]I couldn't tell them anything ... [19.5]But if you can find a power cell ... [22.3]We can use the forklift ... to open the door ... [26.6]get out of here through the Surface Tunnel ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T211809Z" creationid="Yuriy" creationdate="20260515T211809Z">
+        <seg>Солдати пройшли... вони заблокували Виробництво... [5.8]Потребували інформацію про... Силоси... на 3-му рівні... [12.3]Вони не були Брамниками... вони були чимось іншим... [17]Я нічого не міг їм сказати... [19.5]Але якщо ти можеш знайти енергоядро... [22.3]Ми використаємо навантажувач... щоб відкрити двері... [26.6]вибратися звідси через Поверхневий Тунель...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The system’s locked us out.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T161946Z" creationid="Yuriy" creationdate="20260408T161946Z">
@@ -30384,6 +30392,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[16.0]It's humbling, if not a little frightening, to watch lifeforms alter so quickly.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T211427Z" creationid="Yuriy" creationdate="20260515T211427Z">
+        <seg>[16.0]Це поважно спостерігати за тим, як швидко змінюються форми життя, можливо навіть лякаюче.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[16.3]If they think I'm walking all that way, through their toxic machine shops, [20]they can think again.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T215815Z" creationid="Yuriy" creationdate="20260514T215815Z">
@@ -30640,6 +30656,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[21.0]The explosion of Anteverse flora in Reactors was far from an isolated event.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T211437Z" creationid="Yuriy" creationdate="20260515T211437Z">
+        <seg>[21.0]Вибух флори Антивсесвіту в Реакторах був далеко не поодинокою подією.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[21.15]See if you can let him in.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T171907Z" creationid="Yuriy" creationdate="20260329T171907Z">
@@ -30772,6 +30796,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260322T221202Z" creationid="Yuriy" creationdate="20260322T221202Z">
         <seg>[25.6]І це може вас туди привести.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[25.6]It goes to the very nature of life in that realm.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T211450Z" creationid="Yuriy" creationdate="20260515T211450Z">
+        <seg>[25.6]Це стосується самої природи життя в цьому вимірі.</seg>
       </tuv>
     </tu>
     <tu>
