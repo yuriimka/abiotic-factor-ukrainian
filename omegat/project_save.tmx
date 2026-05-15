@@ -30859,6 +30859,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[14]Is the cost of your knowledge ... not already clear?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T233027Z" creationid="Yuriy" creationdate="20260515T233027Z">
+        <seg>[14]Хіба ціна ваших знань... ще не зрозуміла?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[14]Something has happened to the perforation system - the portals have gone haywire, [18.6]but that shouldn't be able to happen ...  [20.4]I wish I knew what was happening in Labs right now!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T221835Z" creationid="Yuriy" creationdate="20260514T221835Z">
@@ -31207,6 +31215,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T151613Z" creationid="Yuriy" creationdate="20260422T151613Z">
         <seg>[21.81]Тож нехай його беззвуччя веде тебе.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[21]If you will not stop yourself, WE WILL.[28.3](Dying) [33.8](Imprecation)</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T233315Z" creationid="Yuriy" creationdate="20260515T233315Z">
+        <seg>[21]Якщо ви не зупините себе, МИ ЗУПИНИМО.[28.3](Помирає) [33.8](Проклинає)</seg>
       </tuv>
     </tu>
     <tu>
