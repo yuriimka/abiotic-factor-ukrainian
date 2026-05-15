@@ -4902,6 +4902,14 @@ Dr. Jenik Veltman has secretly recorded the Blacksmith's speech, and observed th
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Any news?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213411Z" creationid="Yuriy" creationdate="20260515T213411Z">
+        <seg>Якісь новини?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any sort of Tomato, super or otherwise.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260411T110909Z" creationid="Yuriy" creationdate="20260411T110909Z">
@@ -4952,8 +4960,8 @@ Dr. Jenik Veltman has secretly recorded the Blacksmith's speech, and observed th
       <tuv lang="en">
         <seg>Apologies for the late check-in on this, I was held up by a Keystone visitor.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213129Z" creationid="Yuriy" creationdate="20260515T212814Z">
-        <seg>Вибачте за пізню реєстрацію, мене затримав відвідувач-ключник.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213318Z" creationid="Yuriy" creationdate="20260515T212814Z">
+        <seg>Вибачте за пізню реєстрацію, мене затримав Ключник.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27421,6 +27429,14 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What's going on?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213406Z" creationid="Yuriy" creationdate="20260515T213406Z">
+        <seg>Що відбувається?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What's going onnn?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T161810Z" creationid="Yuriy" creationdate="20260408T161810Z">
@@ -29768,6 +29784,14 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T155727Z" creationid="Yuriy" creationdate="20260426T155727Z">
         <seg>У вас зламалася кістка ноги.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You've had those A2 samples for two weeks.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213556Z" creationid="Yuriy" creationdate="20260515T213556Z">
+        <seg>Ви тримаєте ці зраки А2 вже два тижні.</seg>
       </tuv>
     </tu>
     <tu>
