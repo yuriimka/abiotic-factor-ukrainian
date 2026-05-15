@@ -226,8 +226,8 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
       <tuv lang="en">
         <seg>(Requires Bio-Fusion Imitator)</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T154605Z" creationid="Yuriy" creationdate="20260422T154605Z">
-        <seg>(Потрібен Біофузійний імітатор)</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212019Z" creationid="Yuriy" creationdate="20260422T154605Z">
+        <seg>(Потребує Біофузійний імітатор)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20907,8 +20907,8 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       <tuv lang="en">
         <seg>Requires Anti-Fungal Gelatin</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260401T092412Z" creationid="Yuriy" creationdate="20260401T092412Z">
-        <seg>Потрібен Протигрибковий Желатин</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212039Z" creationid="Yuriy" creationdate="20260401T092412Z">
+        <seg>Потребує Протигрибковий Желатин</seg>
       </tuv>
     </tu>
     <tu>
@@ -20945,6 +20945,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requires destruction of a Nightsphere</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212105Z" creationid="Yuriy" creationdate="20260515T212105Z">
+        <seg>Потребує знищення Нічносфери</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requires frying pan or pot full of clean water.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260401T095433Z" creationid="Yuriy" creationdate="20260401T095433Z">
@@ -20955,8 +20963,16 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       <tuv lang="en">
         <seg>Requires hacking</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T152517Z" creationid="Yuriy" creationdate="20260405T152517Z">
-        <seg>Потрібен Злом</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212026Z" creationid="Yuriy" creationdate="20260405T152517Z">
+        <seg>Потребує Злом</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Requires high-intensity chemical burn</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212142Z" creationid="Yuriy" creationdate="20260515T212142Z">
+        <seg>Потребує інтенсивного хімічного спалення</seg>
       </tuv>
     </tu>
     <tu>
@@ -20987,8 +21003,8 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       <tuv lang="en">
         <seg>Requires {item}</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T144647Z" creationid="Yuriy" creationdate="20260405T144647Z">
-        <seg>Потрібен {item}</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212012Z" creationid="Yuriy" creationdate="20260405T144647Z">
+        <seg>Потребує {item}</seg>
       </tuv>
     </tu>
     <tu>
@@ -26159,6 +26175,14 @@ With a research bakground in everything from cognitive evolution to neutrino det
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260323T211020Z" creationid="Yuriy" creationdate="20260323T211020Z">
         <seg>Тританопія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Try Level 3 ... the power cells ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212306Z" creationid="Yuriy" creationdate="20260515T212306Z">
+        <seg>Піди на Рівень 3 ... енергоядра ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -31563,6 +31587,22 @@ Data is inconclusive, and GATE is currently investigating the source and cause o
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T164454Z" creationid="Yuriy" creationdate="20260422T164454Z">
         <seg>_x000D_ _x000D_Дані непереконливі, тому БРАМА наразі розслідує джерело та причину цієї катастрофи, включаючи її точне місцезнаходження в просторі та часі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>analyze</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212205Z" creationid="Yuriy" creationdate="20260515T212205Z">
+        <seg>аналізувати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>begin distillation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212217Z" creationid="Yuriy" creationdate="20260515T212217Z">
+        <seg>почати дистиляцію</seg>
       </tuv>
     </tu>
     <tu>
