@@ -2840,6 +2840,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A small wooden side table.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T225448Z" creationid="Yuriy" creationdate="20260515T225448Z">
+        <seg>Невеликий дерев'яний бічний столик.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A small, dense magnetic component.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260411T100258Z" creationid="Yuriy" creationdate="20260411T100258Z">
