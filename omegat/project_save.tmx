@@ -8868,6 +8868,14 @@ The aim of the project remains to create fully sentient artificial intelligence,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Distillations</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T230509Z" creationid="Yuriy" creationdate="20260515T230509Z">
+        <seg>Дистиляції</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Distribution Pad</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T105103Z" creationid="Yuriy" creationdate="20260410T105103Z">
@@ -23888,6 +23896,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>THEORETICAL DISTILLATION</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T230515Z" creationid="Yuriy" creationdate="20260515T230515Z">
+        <seg>ТЕОРЕТИЧНА ДИСТИЛЯЦІЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>THEORETICAL SOUP</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T191016Z" creationid="Yuriy" creationdate="20260324T191016Z">
@@ -32004,8 +32020,8 @@ As for your gateway problem, tell Sergei.</seg>
 _x000D_
 Believes that something serious may have gone wrong in Labs Sector.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T161623Z" creationid="Yuriy" creationdate="20260422T161623Z">
-        <seg>_x000D_ _x000D_ Вважає, що в Секторі Лабораторій могло статися щось серйозне.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T230359Z" creationid="Yuriy" creationdate="20260422T161623Z">
+        <seg>_x000D_ _x000D_Вважає, що в Секторі Лабораторій могло статися щось серйозне.</seg>
       </tuv>
     </tu>
     <tu>
