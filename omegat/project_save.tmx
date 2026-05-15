@@ -8442,6 +8442,14 @@ CONTAINMENT PROTOCOLS: IS-0171-A is to be isolated by a perimeter cordon with a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Damaged Forklift</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T211823Z" creationid="Yuriy" creationdate="20260515T211823Z">
+        <seg>Пошкоджений Навантажувач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dangerous</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T175943Z" creationid="Yuriy" creationdate="20260324T182242Z">
@@ -11885,6 +11893,14 @@ Dr. Stern has theorized a hypothetical "mass micro-perforation event" could caus
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T100522Z" creationid="Yuriy" creationdate="20260410T100522Z">
         <seg>Гравітаційний Куб</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Grayson Isling</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T211945Z" creationid="Yuriy" creationdate="20260515T211945Z">
+        <seg>Ґрейсон Айлін</seg>
       </tuv>
     </tu>
     <tu>
