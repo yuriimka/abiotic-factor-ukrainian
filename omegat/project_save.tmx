@@ -9894,6 +9894,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Energy Research team ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212336Z" creationid="Yuriy" creationdate="20260515T212336Z">
+        <seg>Команда енергетичних досліджень ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enethiol</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T100347Z" creationid="Yuriy" creationdate="20260402T100347Z">
@@ -14688,6 +14696,14 @@ _x000D_
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T183845Z" creationid="Yuriy" creationdate="20260324T183845Z">
         <seg>Якщо цей стовпчик досягне нуля, ви вріжете дуба.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can get out of here, send help ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212713Z" creationid="Yuriy" creationdate="20260515T212713Z">
+        <seg>Якщо зможеш вибратися звідси, поклич на допомогу ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25157,6 +25173,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T112905Z" creationid="Yuriy" creationdate="20260402T112905Z">
         <seg>Вони хочуть бути кухарями?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They weren't Gatekeepers ... [2.5]someone else ... not government ... [5.7]heading for the Silos ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212416Z" creationid="Yuriy" creationdate="20260515T212416Z">
+        <seg>Вони не були Брамники ... [2.5]хтось інший ... не уряд ... [5.7]прямували до Силосів ...</seg>
       </tuv>
     </tu>
     <tu>
