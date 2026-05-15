@@ -31844,6 +31844,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[6]There are abominations within!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T232848Z" creationid="Yuriy" creationdate="20260515T232848Z">
+        <seg>[6]Там усередині всякі потвори!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[7.00]Can you get someone to fix it?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260331T165026Z" creationid="Yuriy" creationdate="20260331T165026Z">
@@ -31984,6 +31992,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T162006Z" creationid="Yuriy" creationdate="20260408T162006Z">
         <seg>[9.2]Я ніколи не отримаю Нобелівську премію!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[9.4]My brethren crossed over, to seal your folly!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T233022Z" creationid="Yuriy" creationdate="20260515T233022Z">
+        <seg>[9.4]Мої брати пройшли крізь, щоб запобігти вашим дурницям!</seg>
       </tuv>
     </tu>
     <tu>
