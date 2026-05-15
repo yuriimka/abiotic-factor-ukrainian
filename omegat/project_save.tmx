@@ -22893,6 +22893,14 @@ Hostile to any and all outsiders, the Canaanites see the works of 'the Enemy' ev
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry Lenora, yes, we think the intensity of the radiation over there is due to high entropy levels.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213757Z" creationid="Yuriy" creationdate="20260515T213757Z">
+        <seg>Вибач, Леноро, так, ми вважаємо, що інтенсивність радіації у тому місці зумовлена високим рівнем ентропії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sorry, that was us.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T151008Z" creationid="Yuriy" creationdate="20260405T151008Z">
@@ -27445,6 +27453,14 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What's the hold up?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213617Z" creationid="Yuriy" creationdate="20260515T213617Z">
+        <seg>У чому затримка?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What's to stop it leaving?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T154927Z" creationid="Yuriy" creationdate="20260426T154927Z">
@@ -29790,8 +29806,8 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
       <tuv lang="en">
         <seg>You've had those A2 samples for two weeks.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213556Z" creationid="Yuriy" creationdate="20260515T213556Z">
-        <seg>Ви тримаєте ці зраки А2 вже два тижні.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213603Z" creationid="Yuriy" creationdate="20260515T213556Z">
+        <seg>Ви тримаєте ці зразки А2 вже два тижні.</seg>
       </tuv>
     </tu>
     <tu>
