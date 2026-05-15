@@ -13896,8 +13896,8 @@ We do know it's in Boston though!</seg>
       <tuv lang="en">
         <seg>I've been analysing the fluctuations from the last perforation with Suan.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T220407Z" creationid="Yuriy" creationdate="20260515T220407Z">
-        <seg>Я аналізував коливання після останньої перфорації з Суаном.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T220712Z" creationid="Yuriy" creationdate="20260515T220407Z">
+        <seg>Я аналізував коливання після останньої перфорації разом із Суан.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15304,6 +15304,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T145125Z" creationid="Yuriy" creationdate="20260405T145125Z">
         <seg>Вона вже достатньо пожовкла.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's like there's energy entering the system from somewhere else.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T221315Z" creationid="Yuriy" creationdate="20260515T221315Z">
+        <seg>Так ніби енергія надходить у систему ще звідкись.</seg>
       </tuv>
     </tu>
     <tu>
