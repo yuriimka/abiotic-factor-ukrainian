@@ -4952,8 +4952,8 @@ Dr. Jenik Veltman has secretly recorded the Blacksmith's speech, and observed th
       <tuv lang="en">
         <seg>Apologies for the late check-in on this, I was held up by a Keystone visitor.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212814Z" creationid="Yuriy" creationdate="20260515T212814Z">
-        <seg>Вибачте за пізню реєстрацію, мене затримав відвідувач з .</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213129Z" creationid="Yuriy" creationdate="20260515T212814Z">
+        <seg>Вибачте за пізню реєстрацію, мене затримав відвідувач-ключник.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31621,8 +31621,8 @@ Current Points Leftover: {0}</seg>
 _x000D_
 A woman renowned for her purpose and precision, she has voiced her doubts about Keystone's risk management on several previous occasions.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T163339Z" creationid="Yuriy" creationdate="20260426T163339Z">
-        <seg>_x000D_ _x000D_Жінка, відома своєю рішучістю та точністю, вона вже кілька разів раніше висловлювала сумніви щодо управління ризиками Кістоуна.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T213044Z" creationid="Yuriy" creationdate="20260426T163339Z">
+        <seg>_x000D_ _x000D_Жінка, відома своєю рішучістю та точністю, вона вже кілька разів висловлювала сумніви щодо управління ризиками Ключників.</seg>
       </tuv>
     </tu>
     <tu>
