@@ -10142,6 +10142,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Even with the higher entropic quotient, there's excess energy coming through the Gateways.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T214545Z" creationid="Yuriy" creationdate="20260515T214132Z">
+        <seg>Навіть за вищого ентропійного коефіцієнта, надлишок енергії проходить через Брами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Every 5 levels increases your total competence in cooking and ranking up gives you access to new recipes.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T100554Z" creationid="Yuriy" creationdate="20260329T100554Z">
@@ -24769,6 +24777,14 @@ Information on his life before Canaan is scarce, indicating possible erasure.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260411T100710Z" creationid="Yuriy" creationdate="20260411T100710Z">
         <seg>Матір усіх синтетичних арамідів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The numbers don't add up.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T214108Z" creationid="Yuriy" creationdate="20260515T214108Z">
+        <seg>Цифри не сходяться.</seg>
       </tuv>
     </tu>
     <tu>
