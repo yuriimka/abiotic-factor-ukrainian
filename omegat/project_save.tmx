@@ -25337,6 +25337,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is Dr Derek Manse.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T210506Z" creationid="Yuriy" creationdate="20260515T210506Z">
+        <seg>Це Доктор Дерек Менс.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is Dr. Derek Manse.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T155503Z" creationid="Yuriy" creationdate="20260408T155503Z">
@@ -30392,6 +30400,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[16]When I asked about it, he claimed to be trying to find a way to accelerate our research.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T210601Z" creationid="Yuriy" creationdate="20260515T210601Z">
+        <seg>[16]Коли я запитав про це, він заявив, що намагається знайти спосіб пришвидшити наше дослідження.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[17.0]And you know there's a warm cup of coffee at the end of it, Doctor.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260322T221207Z" creationid="Yuriy" creationdate="20260322T221120Z">
@@ -30608,6 +30624,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[21.5]I enquired about the ethical considerations, [24]and he just looked at me blankly.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T210607Z" creationid="Yuriy" creationdate="20260515T210607Z">
+        <seg>[21.5]Я запитав про етичні міркування, [24]а він просто байдуже подивився на мене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[21.81]So let its silent sound move you.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T151613Z" creationid="Yuriy" creationdate="20260422T151613Z">
@@ -30728,6 +30752,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[26.7]The man is a genius, [28.4]but more dangerous to this facility than most of its subjects, I'm sure of it... [33.4]An exceptional scientist, all the same.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T210949Z" creationid="Yuriy" creationdate="20260515T210949Z">
+        <seg>[26.7]Ця людина геній, [28.4]але я впевнений, що вона небезпечніша для цього комплексу, ніж більшість його піддослідних... [33.4]І в той же час - винятковий вчений.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[28.2]One'a Frake's people, said there's a gateway in there.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T170824Z" creationid="Yuriy" creationdate="20260407T170824Z">
@@ -30756,6 +30788,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T221126Z" creationid="Yuriy" creationdate="20260514T221126Z">
         <seg>[2]Вони кажуть про евакуацію, але чи бачили ви, що там нишпорить?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[2]Today I discovered that Dr. Stern's latest software experiment [6.7]was simulating the entire facility - [9.4]a microcosm of Cascade, and every staff member within it, [13.6]even myself, I gather.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T210545Z" creationid="Yuriy" creationdate="20260515T210545Z">
+        <seg>[2]Сьогодні я дізнався, що останній програмний експеримент доктора Стерна [6.7]симулював увесь комплекс - [9.4]мікрокосм Каскад та кожного співробітника в ньому, [13.6]навіть мене, наскільки я розумію.</seg>
       </tuv>
     </tu>
     <tu>
