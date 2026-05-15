@@ -8910,6 +8910,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doesn't add up</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T220335Z" creationid="Yuriy" creationdate="20260515T220335Z">
+        <seg>Не сходиться</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dog Photo Frame</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260420T124847Z" creationid="Yuriy" creationdate="20260420T124847Z">
