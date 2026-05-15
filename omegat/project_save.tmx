@@ -8900,6 +8900,14 @@ The aim of the project remains to create fully sentient artificial intelligence,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do NOT reignite the Rift!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T232832Z" creationid="Yuriy" creationdate="20260515T232832Z">
+        <seg>НЕ відкривайте Розлом!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not presume to know what fate intends.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T153942Z" creationid="Yuriy" creationdate="20260422T153942Z">
@@ -21630,6 +21638,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T165149Z" creationid="Yuriy" creationdate="20260326T165149Z">
         <seg>ЗБЕРЕЖЕННЯ ПОШКОДЖЕНО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SCIENTIST!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T232506Z" creationid="Yuriy" creationdate="20260515T232506Z">
+        <seg>ВЧЕНИЙ!</seg>
       </tuv>
     </tu>
     <tu>
