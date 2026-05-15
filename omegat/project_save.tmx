@@ -4058,8 +4058,8 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
       <tuv lang="en">
         <seg>Alice</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260323T212256Z" creationid="Yuriy" creationdate="20260323T212256Z">
-        <seg>Аліса</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T210101Z" creationid="Yuriy" creationdate="20260323T212256Z">
+        <seg>Еліс</seg>
       </tuv>
     </tu>
     <tu>
@@ -4068,6 +4068,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T120121Z" creationid="Yuriy" creationdate="20260410T120121Z">
         <seg>Еліс Хонґ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alice Hong came out of Security Sector, and locked the blast door behind her.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T210143Z" creationid="Yuriy" creationdate="20260515T210143Z">
+        <seg>Еліс Хонґ вийшла із Сектора Безпеки та замкнула за собою вибухотривкі двері.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13662,6 +13670,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'll follow you soon ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T205941Z" creationid="Yuriy" creationdate="20260515T205941Z">
+        <seg>Я скоро тебе наздожену...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm ... stronger.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T171521Z" creationid="Yuriy" creationdate="20260407T171502Z">
@@ -16899,6 +16915,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260411T111149Z" creationid="Yuriy" creationdate="20260411T111149Z">
         <seg>Західне Виробництво</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manufacturing?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T205847Z" creationid="Yuriy" creationdate="20260515T205847Z">
+        <seg>Виробництво?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24879,6 +24903,14 @@ Whether actually sentient, or a clever simulation, it’s difficult to know for 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There must be another ... a way out ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T205845Z" creationid="Yuriy" creationdate="20260515T205845Z">
+        <seg>Має бути інший... вихід...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There's SOLDIERS in the facility?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T163927Z" creationid="Yuriy" creationdate="20260426T163913Z">
@@ -26187,6 +26219,14 @@ With a research bakground in everything from cognitive evolution to neutrino det
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uh, through Manufacturing...  ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T205950Z" creationid="Yuriy" creationdate="20260515T205950Z">
+        <seg>Ем, через Виробництво... ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to connect to the server browser service.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260328T103020Z" creationid="Yuriy" creationdate="20260328T103020Z">
@@ -27257,6 +27297,22 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T230747Z" creationid="Yuriy" creationdate="20260427T230747Z">
         <seg>Що б вони не робили в Силосі 3, це використало всі наші енергоядра.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When I'm back ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T205953Z" creationid="Yuriy" creationdate="20260515T205953Z">
+        <seg>Коли я повернуся...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When I've returned... from where I am.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T210036Z" creationid="Yuriy" creationdate="20260515T205957Z">
+        <seg>Коли я прийду... звідти, де я є.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30949,6 +31005,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260322T221604Z" creationid="Yuriy" creationdate="20260322T221604Z">
         <seg>[5.25]Спочатку ми подумали, що воно просто заломлює світло через свою кристалічну форму, [9.77]але тепер ми не настільки впевнені.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[5.2]I - I don't I don't, I can't remember...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T205931Z" creationid="Yuriy" creationdate="20260515T205931Z">
+        <seg>[5.2]Я - я не, я не, я не пам'ятаю...</seg>
       </tuv>
     </tu>
     <tu>
