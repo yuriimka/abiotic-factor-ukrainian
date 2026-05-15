@@ -9926,6 +9926,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Energy just dissipates faster.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T214027Z" creationid="Yuriy" creationdate="20260515T214027Z">
+        <seg>Енергія просто швидше розсіюється.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enethiol</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T100347Z" creationid="Yuriy" creationdate="20260402T100347Z">
@@ -27249,6 +27257,16 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T155340Z" creationid="Yuriy" creationdate="20260426T155340Z">
         <seg>Ми це обговоримо.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We're giving everyone iodine tablets to counteract the radiation from expeditions._x000D_
+_x000D_
+But there's a problem I can't figure out.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T214101Z" creationid="Yuriy" creationdate="20260515T214101Z">
+        <seg>Ми видаємо йодні пігулки кожному, щоби протидіяти радіації від експедицій._x000D_ _x000D_Але є проблема, яку я не можу зрозуміти.</seg>
       </tuv>
     </tu>
     <tu>
