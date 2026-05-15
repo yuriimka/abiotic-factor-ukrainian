@@ -3192,6 +3192,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A table that looks so great, some might say it never should have moved from the spot you found it in.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T225722Z" creationid="Yuriy" creationdate="20260515T225722Z">
+        <seg>Стіл, який виглядає настільки чудово, що дехто може сказати, що його взагалі не слід було пересувати з того місця, де ви його знайшли.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A tamed Pest must be present to operate.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T101322Z" creationid="Yuriy" creationdate="20260410T101322Z">
@@ -22608,8 +22616,8 @@ Hostile to any and all outsiders, the Canaanites see the works of 'the Enemy' ev
       <tuv lang="en">
         <seg>Sink ({0} - {1})</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T172602Z" creationid="Yuriy" creationdate="20260329T172602Z">
-        <seg>Раковина ({0} - {1})</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T230002Z" creationid="Yuriy" creationdate="20260329T172602Z">
+        <seg>{0} у раковині - {1}</seg>
       </tuv>
     </tu>
     <tu>
