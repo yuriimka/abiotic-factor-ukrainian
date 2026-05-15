@@ -24777,6 +24777,14 @@ A subject of rampant speculation among the Manufacturing Sector team, no-one is 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The housing is shielding properly, so you'll have to define what you're seeing.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223227Z" creationid="Yuriy" creationdate="20260515T223227Z">
+        <seg>Корпус захищає належним чином, тому тобі доведеться визначити, що ти бачиш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The industrial heart of the GATE Cascade Research Facility, the Manufacturing Sector is responsible for designing and engineering all research equipment and machinery for study within the facility - as well as fabricating technical and specialist tools for other GATE facilities._x000D_
 _x000D_
 It is here the facility's origins as a decommissioned lithium mine are most clearly visible.</seg>
