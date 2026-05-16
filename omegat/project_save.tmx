@@ -15323,6 +15323,14 @@ Familiar with every inch of Cascade's power generation systems and requirements,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It needs to stop, Sarah.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T221011Z" creationid="Yuriy" creationdate="20260516T221011Z">
+        <seg>Це потібно зупинити, Саро.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It says "Bean" in the corner.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260420T124702Z" creationid="Yuriy" creationdate="20260420T124702Z">
@@ -25146,6 +25154,14 @@ Information on his life before Canaan is scarce, indicating possible erasure.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T163834Z" creationid="Yuriy" creationdate="20260426T163834Z">
         <seg>Вчені, які досліджували Рівногір'я, Ейб та Дженет, ледве вижили.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The security bots don't have an 'employee' setting.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T221255Z" creationid="Yuriy" creationdate="20260516T221255Z">
+        <seg>Роботи-охоронці не мають параметра 'співробітник'.</seg>
       </tuv>
     </tu>
     <tu>
