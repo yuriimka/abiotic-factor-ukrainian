@@ -13887,6 +13887,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I was talking to Dr. Tengku.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T225701Z" creationid="Yuriy" creationdate="20260516T225701Z">
+        <seg>Я розмовляла з Докторкою Тенґку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I was working on mass dampeners and the place just SHUT DOWN.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T143531Z" creationid="Yuriy" creationdate="20260405T143531Z">
@@ -22602,6 +22610,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>She suggested the low entropy of A2 could, theoretically, encourage metamorphic lifecycles.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T225706Z" creationid="Yuriy" creationdate="20260516T225706Z">
+        <seg>Вона припустила, що низька ентропія A2 теоретично може сприяти метаморфічним життєвим циклам.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>She went away and rigged up a kind of trap that holds the little critters in place.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T160305Z" creationid="Yuriy" creationdate="20260408T160305Z">
@@ -24544,6 +24560,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That would also explain why ANYTHING from A2 proliferates so rapidly here: there's so much more available energy.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T225923Z" creationid="Yuriy" creationdate="20260516T225923Z">
+        <seg>Це також пояснило б, чому БУДЬ-ЩО з А2 розмножується тут так стрімко: тут набагато більше доступної енергії.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That's not very sanitary.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260411T101426Z" creationid="Yuriy" creationdate="20260411T101426Z">
@@ -25702,6 +25726,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T154517Z" creationid="Yuriy" creationdate="20260426T154517Z">
         <seg>Вони - 'частина' феноменів туману, але ми втратили будь-яку можливість дослідити їхнє походження, щойно встановили систему стримування.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They're more energy efficient.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T225820Z" creationid="Yuriy" creationdate="20260516T225820Z">
+        <seg>Вони є більш енергоефективними.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28754,6 +28786,14 @@ A question still lingers regarding the symbols and shapes etched into its surfac
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260328T103827Z" creationid="Yuriy" creationdate="20260328T103827Z">
         <seg>Так</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Yes!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T225824Z" creationid="Yuriy" creationdate="20260516T225824Z">
+        <seg>Так!</seg>
       </tuv>
     </tu>
     <tu>
