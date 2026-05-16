@@ -8430,6 +8430,14 @@ A jagged maze of caves, cliffs, ledges and ancient paths, existence under these 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Currently Empty</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T231313Z" creationid="Yuriy" creationdate="20260516T231313Z">
+        <seg>Наразі Порожньо</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cushion Chestplate</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T104020Z" creationid="Yuriy" creationdate="20260402T104020Z">
@@ -21362,6 +21370,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Requires 3 different Distillations.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T231507Z" creationid="Yuriy" creationdate="20260516T231507Z">
+        <seg>Потребує 3 різні Дистиляції.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Requires Anti-Fungal Gelatin</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T212039Z" creationid="Yuriy" creationdate="20260401T092412Z">
@@ -33368,6 +33384,22 @@ Data is inconclusive, and GATE is currently investigating the source and cause o
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>start distilling</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T231208Z" creationid="Yuriy" creationdate="20260516T231208Z">
+        <seg>почати дистиляцію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>start mixing concoction</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T231258Z" creationid="Yuriy" creationdate="20260516T231205Z">
+        <seg>почати змішування суміші</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>steer</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T165508Z" creationid="Yuriy" creationdate="20260329T165508Z">
@@ -33380,6 +33412,22 @@ Data is inconclusive, and GATE is currently investigating the source and cause o
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T165522Z" creationid="Yuriy" creationdate="20260329T165522Z">
         <seg>втоптати</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stop distilling</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T231212Z" creationid="Yuriy" creationdate="20260516T231212Z">
+        <seg>зупинити дистиляцію</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>stop mixing concoction</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T231243Z" creationid="Yuriy" creationdate="20260516T231243Z">
+        <seg>перестати змішування суміш</seg>
       </tuv>
     </tu>
     <tu>
