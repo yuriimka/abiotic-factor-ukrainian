@@ -4684,6 +4684,14 @@ She literally wrote the survival handbook for field research, and many of her co
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And please, they're sodium-based accumulators derived from our research into A2, not 'salt'.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233803Z" creationid="Yuriy" creationdate="20260516T233803Z">
+        <seg>І прошу вас, це натрієві акумулятори, розроблені на основі наших досліджень А2, а не 'сіль'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>And possibly usable as an accelerant in the right conditions.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260411T102017Z" creationid="Yuriy" creationdate="20260411T102017Z">
@@ -7654,6 +7662,22 @@ You can select POSITIVE and NEGATIVE traits.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T142412Z" creationid="Yuriy" creationdate="20260506T142412Z">
         <seg>Хімічний Верстак</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chemistry Input</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233712Z" creationid="Yuriy" creationdate="20260516T233712Z">
+        <seg>Хімічний Вхід</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Chemistry Output</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233725Z" creationid="Yuriy" creationdate="20260516T233725Z">
+        <seg>Хімічний Вихід</seg>
       </tuv>
     </tu>
     <tu>
@@ -25246,6 +25270,14 @@ A subject of rampant speculation among the Manufacturing Sector team, no-one is 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The fuel cells are not the issue here, if you get my drift...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233838Z" creationid="Yuriy" creationdate="20260516T233838Z">
+        <seg>Проблема взагалі не в паливних елементах, якщо ви розумієте, на що я натякаю...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The hallmark of a true chef.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T172738Z" creationid="Yuriy" creationdate="20260329T172738Z">
@@ -25906,6 +25938,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T221949Z" creationid="Yuriy" creationdate="20260515T221949Z">
         <seg>Вони в межах дозволених.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They've BEEN tested - containment systems, weaponry, even some of the personal transport prototypes.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233740Z" creationid="Yuriy" creationdate="20260516T233740Z">
+        <seg>Їх УЖЕ протестували - системи стримування, озброєння, навіть деякі прототипи персонального транспорту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27910,6 +27950,14 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T160012Z" creationid="Yuriy" creationdate="20260408T160012Z">
         <seg>Спочатку ми не могли підійти близько до нього.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We don't have anything in containment like that, Bridget.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T234000Z" creationid="Yuriy" creationdate="20260516T234000Z">
+        <seg>У нас у стримуванні немає нічого подібного, Бріджит.</seg>
       </tuv>
     </tu>
     <tu>
