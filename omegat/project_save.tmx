@@ -2280,6 +2280,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A lot of this stuff, you can't just walk away at 6pm.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T220930Z" creationid="Yuriy" creationdate="20260516T220930Z">
+        <seg>Більшість роботи не можна так просто покинути о шостій вечора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A makeshift, throwable fragmentation grenade that detonates on impact.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260420T201533Z" creationid="Yuriy" creationdate="20260420T201533Z">
@@ -16801,6 +16809,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260401T100559Z" creationid="Yuriy" creationdate="20260401T100559Z">
         <seg>Довгий Офісний Диван</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Look Richard, if they sometimes work a little extra, it's because they want to and a project needs it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T220629Z" creationid="Yuriy" creationdate="20260516T220629Z">
+        <seg>Послухай, Річарде, якщо вони іноді працюють трохи більше, то це тому, що вони цього хочуть і цього потребує проєкт.</seg>
       </tuv>
     </tu>
     <tu>
