@@ -13277,6 +13277,14 @@ How did you manage it?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I agree, we're looking at a more complicated lifecycle than we thought.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T225550Z" creationid="Yuriy" creationdate="20260516T225550Z">
+        <seg>Погоджуюся, ми маємо справу зі складнішим життєвим циклом, ніж припускалося раніше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I am going to stay here, for now.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260322T191132Z" creationid="Yuriy" creationdate="20260322T191132Z">
@@ -15443,6 +15451,14 @@ Familiar with every inch of Cascade's power generation systems and requirements,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It shows clear morphic continuity with IS-0171.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T224625Z" creationid="Yuriy" creationdate="20260516T224625Z">
+        <seg>Яка демонструє чітку морфологічну спадкоємність з ІС-0171.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It was enough to get Sarah Frake's attention, and shift him out of Ohio._x000D_
 _x000D_
 A single-minded savant with a deep-seated debt to Frake, the rest is history.</seg>
@@ -15961,6 +15977,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T155930Z" creationid="Yuriy" creationdate="20260408T155930Z">
         <seg>Кеті, я радий повідомити, що ми нарешті досягли певного прогресу з 173.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kathy, after studying IS-0173's internal structure, I'm coming round to your theory.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T224612Z" creationid="Yuriy" creationdate="20260516T224612Z">
+        <seg>Кеті, після вивчення внутрішньої структури ІС-0173, я переходжу до твоєї теорії.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19221,6 +19245,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T141727Z" creationid="Yuriy" creationdate="20260326T164305Z">
         <seg>ЛЮДИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>PESTS</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T224415Z" creationid="Yuriy" creationdate="20260516T224415Z">
+        <seg>ШКІДНИКИ</seg>
       </tuv>
     </tu>
     <tu>
