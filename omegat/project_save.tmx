@@ -9144,8 +9144,8 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
       <tuv lang="en">
         <seg>Dr Derek Manse reporting, [1.9]Research Director, GATE Cascade Research Facility.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T220558Z" creationid="Yuriy" creationdate="20260514T220550Z">
-        <seg>Доктор Дерек Манс доповідає, [1.9] директор з досліджень, Комплекс БРАМА Каскад.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T234226Z" creationid="Yuriy" creationdate="20260514T220550Z">
+        <seg>Доктор Дерек Менс доповідає, [1.9] директор з досліджень, Комплекс БРАМА Каскад.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17446,8 +17446,8 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       <tuv lang="en">
         <seg>Manse agrees that this is a fair rule.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T224902Z" creationid="Yuriy" creationdate="20260427T224902Z">
-        <seg>Манс погоджується, що це справедливе правило.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T234310Z" creationid="Yuriy" creationdate="20260427T224902Z">
+        <seg>Менс погоджується, що це справедливе правило.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19369,6 +19369,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260430T234203Z" creationid="Yuriy" creationdate="20260323T211247Z">
         <seg>З часом верстак заповнить невелике сховище випадковим корисним брухтом, а іноді й іншими предметами.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overencumbered</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T234322Z" creationid="Yuriy" creationdate="20260516T234322Z">
+        <seg>Перевантажений</seg>
       </tuv>
     </tu>
     <tu>
@@ -30138,6 +30146,14 @@ But when I pointed out that you could also use it to launch things at high decen
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T105954Z" creationid="Yuriy" creationdate="20260402T105954Z">
         <seg>Вам терміново потібна їжа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You need to drop some loot.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T234424Z" creationid="Yuriy" creationdate="20260516T234424Z">
+        <seg>Вам потрібно викинути декілька речей.</seg>
       </tuv>
     </tu>
     <tu>
