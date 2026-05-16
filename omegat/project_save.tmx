@@ -7104,6 +7104,14 @@ You are the host of this game and anyone connected will be removed from the game
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can we get some gosh dang organization down in Manufacturing?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230106Z" creationid="Yuriy" creationdate="20260516T230106Z">
+        <seg>Чи можемо ми, чорт забирай, навести лаж у Виробництві?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Canaan</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T115641Z" creationid="Yuriy" creationdate="20260410T115641Z">
@@ -10298,6 +10306,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T150732Z" creationid="Yuriy" creationdate="20260329T150732Z">
         <seg>Розтинач</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exactly.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T225949Z" creationid="Yuriy" creationdate="20260516T225949Z">
+        <seg>Саме так.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13903,6 +13919,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I went down to see Varsha yesterday, and I was tripping over crates on every walkway, which are very much NOT up to even the basic safety standards.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230435Z" creationid="Yuriy" creationdate="20260516T230435Z">
+        <seg>Вчора я побачився з Варшою і спотикався об ящики на кожному проході, що зовсім НЕ відповідає базовим стандартам безпеки.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I work on power cells!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T222237Z" creationid="Yuriy" creationdate="20260427T222237Z">
@@ -15529,6 +15553,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T171307Z" creationid="Yuriy" creationdate="20260329T171307Z">
         <seg>Хіба не видно, що це рослина?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's amazing we get anything done.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230118Z" creationid="Yuriy" creationdate="20260516T230118Z">
+        <seg>Дивовижно, що нам узагалі щось вдається.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24128,6 +24160,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TIDY UP</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230045Z" creationid="Yuriy" creationdate="20260516T230045Z">
+        <seg>ПРИБИРАННЯ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>TIME TO GO</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T090956Z" creationid="Yuriy" creationdate="20260402T090956Z">
@@ -25448,6 +25488,14 @@ Whether actually sentient, or a clever simulation, it’s difficult to know for 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Their metabolic rates must skyrocket.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T225946Z" creationid="Yuriy" creationdate="20260516T225946Z">
+        <seg>Їхній метаболізм має стрімко зрости.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then I had an idea.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T162012Z" creationid="Yuriy" creationdate="20260408T162012Z">
@@ -25734,6 +25782,14 @@ As a precaution, GATE staff have installed a rapid ventilation override switch i
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T225820Z" creationid="Yuriy" creationdate="20260516T225820Z">
         <seg>Вони є більш енергоефективними.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They're probably starving.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230019Z" creationid="Yuriy" creationdate="20260516T230019Z">
+        <seg>Вони, мабуть, голодують.</seg>
       </tuv>
     </tu>
     <tu>
