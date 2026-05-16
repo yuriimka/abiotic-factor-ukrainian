@@ -2866,8 +2866,8 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
       <tuv lang="en">
         <seg>A sort of will-o-the-wisp, I'm sure you know the one.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T225119Z" creationid="Yuriy" creationdate="20260427T225104Z">
-        <seg>Щось на кшталт блукаючого вогника - впевнений, ти розумієш, про кого я.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T234112Z" creationid="Yuriy" creationdate="20260427T225104Z">
+        <seg>Щось на кшталт блукаючого вогника - впевненf, ти розумієш, про кого я.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13899,6 +13899,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I spoke to Dr. Riggs about it, and she hasn't encountered anything like that either.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T234009Z" creationid="Yuriy" creationdate="20260516T234009Z">
+        <seg>Я говорив про це з докторкою Ріґс і вона теж нічого такого не зустрічала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I stay out of the halls when we shut down for the night - like you're supposed to.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T150802Z" creationid="Yuriy" creationdate="20260405T150802Z">
@@ -16701,6 +16709,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223558Z" creationid="Yuriy" creationdate="20260515T223558Z">
         <seg>Ленора чудово знає, що я ціную її роботу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Let me know if that changes, but don't mention this to anyone.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T234221Z" creationid="Yuriy" creationdate="20260516T234221Z">
+        <seg>Дай мені знати, коли щось зміниться, але нікому про це не розказуй.</seg>
       </tuv>
     </tu>
     <tu>
