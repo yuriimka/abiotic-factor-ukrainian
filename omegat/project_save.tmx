@@ -13923,6 +13923,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I told Enderson about them.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233312Z" creationid="Yuriy" creationdate="20260516T233257Z">
+        <seg>Я розповіла про них Ендерсону.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I understand the goal, but there's a TON of valuable equipment in those things, which would have been a lot more useful elsewhere.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T150555Z" creationid="Yuriy" creationdate="20260405T150555Z">
@@ -15853,6 +15861,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T163846Z" creationid="Yuriy" creationdate="20260426T163846Z">
         <seg>Дженет каже, що Виробничий Сектор - наша найкраща надія на втечу...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jim, I'm concerned we haven't field tested the power cells sufficiently.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233230Z" creationid="Yuriy" creationdate="20260516T233230Z">
+        <seg>Джиме, я стурбований тим, що ми провели замало тестів з Енергоядрами.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20281,6 +20297,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T103040Z" creationid="Yuriy" creationdate="20260405T143425Z">
         <seg>Енергоядро</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Power Cell Testing</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233150Z" creationid="Yuriy" creationdate="20260516T233150Z">
+        <seg>Тестування Енергоядер</seg>
       </tuv>
     </tu>
     <tu>
