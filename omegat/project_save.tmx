@@ -7106,8 +7106,8 @@ You are the host of this game and anyone connected will be removed from the game
       <tuv lang="en">
         <seg>Can we get some gosh dang organization down in Manufacturing?</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230106Z" creationid="Yuriy" creationdate="20260516T230106Z">
-        <seg>Чи можемо ми, чорт забирай, навести лаж у Виробництві?</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230637Z" creationid="Yuriy" creationdate="20260516T230106Z">
+        <seg>Чи можемо ми, чорт забирай, навести лад у Виробництві?</seg>
       </tuv>
     </tu>
     <tu>
@@ -13601,8 +13601,8 @@ We do know it's in Boston though!</seg>
       <tuv lang="en">
         <seg>I know we don't answer to OSHA, but we'll be answering to Keystone if we have an accident down there.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230440Z" creationid="Yuriy" creationdate="20260516T230440Z">
-        <seg>Я знаю, що ми не підзвітні OSHA, але ми підзвітні Keystone, якщо у нас там трапиться аварія.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230627Z" creationid="Yuriy" creationdate="20260516T230440Z">
+        <seg>Я знаю, що ми не звітуємо ОША, але будемо звітувати Ключникам, якщо станеться аварія.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13929,8 +13929,8 @@ We do know it's in Boston though!</seg>
       <tuv lang="en">
         <seg>I went down to see Varsha yesterday, and I was tripping over crates on every walkway, which are very much NOT up to even the basic safety standards.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230435Z" creationid="Yuriy" creationdate="20260516T230435Z">
-        <seg>Вчора я побачився з Варшою і спотикався об ящики на кожному проході, що зовсім НЕ відповідає базовим стандартам безпеки.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230738Z" creationid="Yuriy" creationdate="20260516T230435Z">
+        <seg>Вчора, під час зустрічі з Варшою і спотикався об ящики на кожному проході, що зовсім НЕ відповідає навіть найпростішим стандартам безпеки.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15561,6 +15561,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T171307Z" creationid="Yuriy" creationdate="20260329T171307Z">
         <seg>Хіба не видно, що це рослина?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It's a work in progress.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T230825Z" creationid="Yuriy" creationdate="20260516T230825Z">
+        <seg>Робота над цим ще триває.</seg>
       </tuv>
     </tu>
     <tu>
