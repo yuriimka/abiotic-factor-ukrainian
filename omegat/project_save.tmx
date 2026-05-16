@@ -13109,6 +13109,14 @@ How did you manage it?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How gullible you are.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T224359Z" creationid="Yuriy" creationdate="20260516T224359Z">
+        <seg>Від того наскільки ти довірливий.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>How hard could it be?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T174549Z" creationid="Yuriy" creationdate="20260408T174549Z">
@@ -18821,6 +18829,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T143253Z" creationid="Yuriy" creationdate="20260405T143205Z">
         <seg>Олія</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On what?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T224145Z" creationid="Yuriy" creationdate="20260516T224145Z">
+        <seg>Від чого?</seg>
       </tuv>
     </tu>
     <tu>
