@@ -12616,6 +12616,14 @@ The source or chemical makeup of the pyrotechnics used by the population is like
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>He's worried we're 'relying on salt' to keep Flathill in check.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233539Z" creationid="Yuriy" creationdate="20260516T233539Z">
+        <seg>Він хвилюється, що ми 'покладаємося на сіль', аби стримувати Рівногір'я.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Head</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T162319Z" creationid="Yuriy" creationdate="20260326T162319Z">
@@ -15867,8 +15875,8 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       <tuv lang="en">
         <seg>Jim, I'm concerned we haven't field tested the power cells sufficiently.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233230Z" creationid="Yuriy" creationdate="20260516T233230Z">
-        <seg>Джиме, я стурбований тим, що ми провели замало тестів з Енергоядрами.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233321Z" creationid="Yuriy" creationdate="20260516T233230Z">
+        <seg>Джиме, я стурбована тим, що ми провели замало тестів з Енергоядрами.</seg>
       </tuv>
     </tu>
     <tu>
