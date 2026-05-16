@@ -13927,6 +13927,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm concerned some of your people have been working extra hours, and not returning to the Residence Sector each evening.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T220304Z" creationid="Yuriy" creationdate="20260516T220304Z">
+        <seg>Я стурбований тим, що деякі з ваших людей працюють понаднормово і не повертаються до Житлового Сектору щовечора.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I'm crawling through a vent.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T105938Z" creationid="Yuriy" creationdate="20260504T105938Z">
@@ -14037,6 +14045,14 @@ Incidentally, autopsies suggest they're the second stage in the lifecycle of a m
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T134243Z" creationid="Yuriy" creationdate="20260408T160122Z">
         <seg>Мене змусили працювати з мертвими зразками._x000D_ _x000D_До речі, розтини показують, що вони є другим етапом життєвого циклу метаморфічної істоти, починаючи з 171.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I've been hearing some of them have built BEDS down there.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T220516Z" creationid="Yuriy" creationdate="20260516T220516Z">
+        <seg>Я чув, що деякі з них розклали ЛІЖКА у тому місці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25941,6 +25957,14 @@ You need to select a Job and starting Traits for your character with each new wo
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T161845Z" creationid="Yuriy" creationdate="20260426T160955Z">
         <seg>Безліч очей, розташованих посеред м'ясистого червоного сяйва, застережує носія в усіх напрямках.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This needs to STOP</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T220146Z" creationid="Yuriy" creationdate="20260516T220146Z">
+        <seg>Це потрібно ЗУПИНИТИ</seg>
       </tuv>
     </tu>
     <tu>
