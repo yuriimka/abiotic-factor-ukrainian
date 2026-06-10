@@ -14187,6 +14187,14 @@ We do know it's in Boston though!</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I'm tired.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260610T154023Z" creationid="Yuriy" creationdate="20260610T154023Z">
+        <seg>Відчуваю втому</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I've been analysing the fluctuations from the last perforation with Suan.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T220712Z" creationid="Yuriy" creationdate="20260515T220407Z">
