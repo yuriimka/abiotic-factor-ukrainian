@@ -7986,6 +7986,14 @@ You can select POSITIVE and NEGATIVE traits.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Concoctions</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260727T135509Z" creationid="Yuriy" creationdate="20260727T135509Z">
+        <seg>Суміші</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connected specimens?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T155849Z" creationid="Yuriy" creationdate="20260408T155849Z">
