@@ -11315,6 +11315,14 @@ Error: {Error}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fizz Bang</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260727T130055Z" creationid="Yuriy" creationdate="20260727T130055Z">
+        <seg>Шипучий Бум</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Flashlight</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260401T094203Z" creationid="Yuriy" creationdate="20260401T094203Z">
@@ -24320,6 +24328,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T090956Z" creationid="Yuriy" creationdate="20260402T090956Z">
         <seg>ЧАС ІТИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TOO HEAVY</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260727T130017Z" creationid="Yuriy" creationdate="20260727T130017Z">
+        <seg>НАДМІРНА ВАГА</seg>
       </tuv>
     </tu>
     <tu>
