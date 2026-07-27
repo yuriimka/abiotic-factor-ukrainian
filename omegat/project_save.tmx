@@ -24620,6 +24620,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Teleport destination is blocked.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260727T125828Z" creationid="Yuriy" creationdate="20260727T125828Z">
+        <seg>Точка телепорту заблокована.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Teleporter Pad</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T125131Z" creationid="Yuriy" creationdate="20260410T125131Z">
