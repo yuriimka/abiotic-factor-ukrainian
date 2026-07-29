@@ -6978,8 +6978,8 @@ You are the host of this game and anyone connected will be removed from the game
       <tuv lang="en">
         <seg>Can be planted in a Garden Plot to grow an attractive Greyeb plant.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T172238Z" creationid="Yuriy" creationdate="20260422T172238Z">
-        <seg>Можна посадити на грядці, щоб виростити привабливу рослину Очноросту.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T124852Z" creationid="Yuriy" creationdate="20260422T172238Z">
+        <seg>Можна посадити на Грядці, щоб виростити привабливу рослину Очноросту.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23210,6 +23210,14 @@ Hostile to any and all outsiders, the Canaanites see the works of 'the Enemy' ev
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Smashed GATE NVGs</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T124742Z" creationid="Yuriy" creationdate="20260729T124742Z">
+        <seg>Зламаний ПНБ БРАМА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Smoker</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T092629Z" creationid="Yuriy" creationdate="20260329T092629Z">
@@ -23236,8 +23244,16 @@ Hostile to any and all outsiders, the Canaanites see the works of 'the Enemy' ev
       <tuv lang="en">
         <seg>Snag Vine</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T104853Z" creationid="Yuriy" creationdate="20260504T104853Z">
-        <seg>Лоза-корч</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T124829Z" creationid="Yuriy" creationdate="20260504T104853Z">
+        <seg>Корч-лоза</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Snag Vine Seed</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T124822Z" creationid="Yuriy" creationdate="20260729T124822Z">
+        <seg>Насіння Корч-лози</seg>
       </tuv>
     </tu>
     <tu>
