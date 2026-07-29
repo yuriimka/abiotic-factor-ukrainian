@@ -11789,6 +11789,14 @@ She's near blind without her glasses, though.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GATE NVGs</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T124539Z" creationid="Yuriy" creationdate="20260729T124539Z">
+        <seg>ПНБ БРАМА</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GATE Rise Bio-Laboratory</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T160354Z" creationid="Yuriy" creationdate="20260422T155956Z">
@@ -20837,6 +20845,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>RECALL LOCKED</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T124203Z" creationid="Yuriy" creationdate="20260729T124203Z">
+        <seg>ВИКЛИК НЕДОСТУПНИЙ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>REGISTRY</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T164636Z" creationid="Yuriy" creationdate="20260326T164636Z">
@@ -26940,6 +26956,14 @@ With a research bakground in everything from cognitive evolution to neutrino det
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T105217Z" creationid="Yuriy" creationdate="20260504T105217Z">
         <seg>Тренувальний Манекен</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tram Operation</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T123703Z" creationid="Yuriy" creationdate="20260729T123703Z">
+        <seg>Керування Трамваєм</seg>
       </tuv>
     </tu>
     <tu>
