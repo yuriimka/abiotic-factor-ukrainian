@@ -8666,6 +8666,14 @@ CONTAINMENT PROTOCOLS: IS-0171-A is to be isolated by a perimeter cordon with a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Defender</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T125010Z" creationid="Yuriy" creationdate="20260729T125010Z">
+        <seg>Захисник</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Defense Analyst</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T074309Z" creationid="Yuriy" creationdate="20260329T074309Z">
@@ -30295,10 +30303,34 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You no longer lose any stamina when blocking.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T125140Z" creationid="Yuriy" creationdate="20260729T125140Z">
+        <seg>Ви більше не втрачаєте витривалість, під час блоку</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You now have a 33% chance to not lose your bait when fishing up junk.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T164342Z" creationid="Yuriy" creationdate="20260329T164342Z">
         <seg>Тепер у вас є 33% шанс не втратити свою наживку під час вилову сміття.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You only catch junk while fishing.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T125110Z" creationid="Yuriy" creationdate="20260729T125110Z">
+        <seg>Ви вловлюєте лише непотріб, коли рибалите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You only lose half the normal stamina when blocking a hit.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T125040Z" creationid="Yuriy" creationdate="20260729T125040Z">
+        <seg>Ви втрачаєте лише половину витривалості, коли блокуєте удар.</seg>
       </tuv>
     </tu>
     <tu>
