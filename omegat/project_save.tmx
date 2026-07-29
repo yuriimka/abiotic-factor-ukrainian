@@ -3752,6 +3752,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access to the rooftops is restricted, and anyway no-one would be crazy - or stupid - enough to do that.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T135641Z" creationid="Yuriy" creationdate="20260729T135641Z">
+        <seg>Доступ на дах обмежений і взагалі ніхто не був би настільки божевільним - чи дурним - щоб це зробити.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Accessibility - Audio</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T221712Z" creationid="Yuriy" creationdate="20260427T221555Z">
@@ -5332,6 +5340,14 @@ You are the host of this game and anyone connected will be removed from the game
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T091034Z" creationid="Yuriy" creationdate="20260329T091034Z">
         <seg>Астматик</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At last, you are here.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T135837Z" creationid="Yuriy" creationdate="20260729T135837Z">
+        <seg>Нарешті ти тут.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30561,8 +30577,8 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
       <tuv lang="en">
         <seg>You'd have to pull out all three to reopen the Gateway.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T135515Z" creationid="Yuriy" creationdate="20260729T135515Z">
-        <seg>Щоб знову відкрити Ворота, доведеться витягти всі три.</seg>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T135609Z" creationid="Yuriy" creationdate="20260729T135515Z">
+        <seg>Тобі доведеться витягти всі три, щоби відкрити Шлюз.</seg>
       </tuv>
     </tu>
     <tu>
