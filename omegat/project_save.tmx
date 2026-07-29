@@ -5536,6 +5536,14 @@ You are the host of this game and anyone connected will be removed from the game
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BUILD A BED</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T125537Z" creationid="Yuriy" creationdate="20260729T125537Z">
+        <seg>ПОБУДУЙТЕ ЛІЖКО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BUILD A CRAFTING BENCH</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260401T092504Z" creationid="Yuriy" creationdate="20260401T092504Z">
@@ -24312,6 +24320,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T091008Z" creationid="Yuriy" creationdate="20260402T091008Z">
         <seg>ВЕНТИЛЯЦІЯ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>THEORETICAL CONCOCTION</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T125404Z" creationid="Yuriy" creationdate="20260729T125404Z">
+        <seg>ТЕОРЕТИЧНА СУМІШ</seg>
       </tuv>
     </tu>
     <tu>
