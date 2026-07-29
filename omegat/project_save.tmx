@@ -13017,6 +13017,14 @@ How did you manage it?</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hi Jim, what's the operating lifespan of the Flathill containment system?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T135205Z" creationid="Yuriy" creationdate="20260729T135205Z">
+        <seg>Привіт, Джиме, скільки часу триває система утримання Рівногір'я?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hi, you need to take this one seriously.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T172940Z" creationid="Yuriy" creationdate="20260407T172940Z">
@@ -13245,6 +13253,14 @@ How did you manage it?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T161028Z" creationid="Yuriy" creationdate="20260422T161028Z">
         <seg>Незрозуміло, як він заволодів артефактом, який називає 'Магнекаменем' і як використав його, щоб розпалити свій культ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How long do the power cells last?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T135252Z" creationid="Yuriy" creationdate="20260729T135252Z">
+        <seg>Як довго служать енергетичні ядра?</seg>
       </tuv>
     </tu>
     <tu>
