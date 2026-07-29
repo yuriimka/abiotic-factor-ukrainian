@@ -20413,6 +20413,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Power Cells</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T130156Z" creationid="Yuriy" creationdate="20260729T130156Z">
+        <seg>Енергетичні Ядра</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Power Drill</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T132548Z" creationid="Yuriy" creationdate="20260410T132548Z">
