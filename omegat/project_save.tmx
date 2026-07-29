@@ -9126,6 +9126,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Don't worry about it, they're high density sodium cells, good for at least a month but I'd wager longer.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T135345Z" creationid="Yuriy" creationdate="20260729T135345Z">
+        <seg>Не переймайся, це натрієві ядра високої щільності, вони діють щонайменше місяць, але я би посперечався що  надовше.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Door</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T170818Z" creationid="Yuriy" creationdate="20260329T170818Z">
@@ -25916,6 +25924,14 @@ Whether actually sentient, or a clever simulation, it’s difficult to know for 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There's plenty of redundancy in the containment system, too.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T135455Z" creationid="Yuriy" creationdate="20260729T135455Z">
+        <seg>У системі утримання є достатньо резервів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Therefore, the fog's presence in the Facility, even briefly, may indicate a more significant containment concern._x000D_
 _x000D_
 As a precaution, GATE staff have installed a rapid ventilation override switch in Silo 3, which can help resolve a Fog Event sooner, though it's not entirely clear what the effect might be on the surface.</seg>
@@ -30539,6 +30555,14 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260328T101033Z" creationid="Yuriy" creationdate="20260328T101033Z">
         <seg>Щоб Приєднатися Увімкніть Міжплатформну Гру в Налаштуваннях.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You'd have to pull out all three to reopen the Gateway.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T135515Z" creationid="Yuriy" creationdate="20260729T135515Z">
+        <seg>Щоб знову відкрити Ворота, доведеться витягти всі три.</seg>
       </tuv>
     </tu>
     <tu>
