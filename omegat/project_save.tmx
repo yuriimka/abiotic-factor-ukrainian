@@ -5560,6 +5560,14 @@ You are the host of this game and anyone connected will be removed from the game
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>BORDERLESS</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164702Z" creationid="Yurii" creationdate="20261006T164702Z">
+        <seg>БЕЗРАМКОВИЙ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>BUILD A BED</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260729T125537Z" creationid="Yuriy" creationdate="20260729T125537Z">
@@ -6588,6 +6596,14 @@ You are the host of this game and anyone connected will be removed from the game
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T223225Z" creationid="Yuriy" creationdate="20260516T223225Z">
         <seg>Але яке справжнє застосування, окрім збирання сміття?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But what then?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171206Z" creationid="Yurii" creationdate="20261006T171206Z">
+        <seg>А потім що?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9774,6 +9790,14 @@ This will delete ALL progress and save data within the facility save, INCLUDING 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>EPIC</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164049Z" creationid="Yurii" creationdate="20261006T163949Z">
+        <seg>ЕПІЧНО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>EVACUATE VIA MANUFACTURING</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T141736Z" creationid="Yuriy" creationdate="20260405T141736Z">
@@ -10813,6 +10837,14 @@ You're too afraid to learn this skill.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T091759Z" creationid="Yuriy" creationdate="20260402T091759Z">
         <seg>ІЗ ПОПЕЛУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>FULLSCREEN</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164731Z" creationid="Yurii" creationdate="20261006T164731Z">
+        <seg>ПОВНОЕКРАННИЙ</seg>
       </tuv>
     </tu>
     <tu>
@@ -12201,6 +12233,14 @@ Dr. Stern has theorized a hypothetical "mass micro-perforation event" could caus
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Graphics</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164448Z" creationid="Yurii" creationdate="20261006T164448Z">
+        <seg>Графіка</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gravity Cube</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T100522Z" creationid="Yuriy" creationdate="20260410T100522Z">
@@ -12440,8 +12480,8 @@ So we finally caught one of those dog things.</seg>
       <tuv lang="en">
         <seg>HIGH</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260420T135217Z" creationid="Yuriy" creationdate="20260324T183507Z">
-        <seg>ВИСОКИЙ РІВЕНЬ</seg>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164107Z" creationid="Yuriy" creationdate="20260324T183507Z">
+        <seg>ВИСОКО</seg>
       </tuv>
     </tu>
     <tu>
@@ -16483,8 +16523,8 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       <tuv lang="en">
         <seg>LOW</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T180106Z" creationid="Yuriy" creationdate="20260324T184225Z">
-        <seg>НИЗЬКИЙ РІВЕНЬ</seg>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164135Z" creationid="Yuriy" creationdate="20260324T184225Z">
+        <seg>НИЗЬКО</seg>
       </tuv>
     </tu>
     <tu>
@@ -17275,6 +17315,14 @@ If the item is the correct item and material, you will succeed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MEDIUM</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164120Z" creationid="Yurii" creationdate="20261006T164120Z">
+        <seg>СЕРЕДНЬО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MILITARY IN THE FACILITY?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T091420Z" creationid="Yuriy" creationdate="20260402T091420Z">
@@ -17584,6 +17632,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T163449Z" creationid="Yuriy" creationdate="20260326T163401Z">
         <seg>Ліміт символів: {char_limit}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Max FPS</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164518Z" creationid="Yurii" creationdate="20261006T164344Z">
+        <seg>Макс. Частота Кадрів</seg>
       </tuv>
     </tu>
     <tu>
@@ -18925,6 +18981,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Of course you want out.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T170915Z" creationid="Yurii" creationdate="20261006T170915Z">
+        <seg>Звісно ж, ти хочеш вибратися.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Off</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260323T210804Z" creationid="Yuriy" creationdate="20260323T210804Z">
@@ -19161,6 +19225,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T114317Z" creationid="Yuriy" creationdate="20260410T114317Z">
         <seg>Один із гідрологів сам їх приготував.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One two three.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171106Z" creationid="Yurii" creationdate="20261006T171106Z">
+        <seg>Перше друге третє.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21790,6 +21862,22 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164353Z" creationid="Yurii" creationdate="20261006T164353Z">
+        <seg>Розширення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolution Scale</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164426Z" creationid="Yurii" creationdate="20261006T164426Z">
+        <seg>Масштабування Розширення</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Resourceful researcher and hardened survivor.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260420T131131Z" creationid="Yuriy" creationdate="20260420T131131Z">
@@ -22842,6 +22930,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T162714Z" creationid="Yuriy" creationdate="20260426T162714Z">
         <seg>Тіньові Ворота</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shadows</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164239Z" creationid="Yurii" creationdate="20261006T164239Z">
+        <seg>ТІНІ</seg>
       </tuv>
     </tu>
     <tu>
@@ -24860,6 +24956,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Textures</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164303Z" creationid="Yurii" creationdate="20261006T164303Z">
+        <seg>ТЕКСТУРИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Thank goodness someone improved door security in this sector.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T170458Z" creationid="Yuriy" creationdate="20260408T170458Z">
@@ -25380,6 +25484,22 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The crusaders ... you're not one of them ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T170133Z" creationid="Yurii" creationdate="20261006T170133Z">
+        <seg>Хрестоносці ... ти не один із них ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The devices prevent portals.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171726Z" creationid="Yurii" creationdate="20261006T171726Z">
+        <seg>Пристрої стримують портали.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The dog thing</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T223917Z" creationid="Yuriy" creationdate="20260515T223623Z">
@@ -25450,6 +25570,14 @@ A subject of rampant speculation among the Manufacturing Sector team, no-one is 
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260516T233838Z" creationid="Yuriy" creationdate="20260516T233838Z">
         <seg>Проблема взагалі не в паливних елементах, якщо ви розумієте, на що я натякаю...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The giants.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T170927Z" creationid="Yurii" creationdate="20261006T170927Z">
+        <seg>Велетні.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25736,6 +25864,14 @@ Whether actually sentient, or a clever simulation, it’s difficult to know for 
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T105747Z" creationid="Yuriy" creationdate="20260504T105747Z">
         <seg>Шлях відкрито в останнє.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The way was closed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T172346Z" creationid="Yurii" creationdate="20261006T172346Z">
+        <seg>Шлях було закрито.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26473,6 +26609,14 @@ You need to select a Job and starting Traits for your character with each new wo
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260410T134354Z" creationid="Yuriy" creationdate="20260329T072538Z">
         <seg>Це означає, що Риси, Навички, Предмети, Спорядження та Прогрес вашого персонажа прив'язані до певного сервера._x000D_ _x000D_Візуальне налаштування зберігається локально та переноситься між серверами._x000D_ _x000D_Вам потрібно вибрати Роботу та Початкові Риси для свого персонажа з кожним новим світом, що ви зараз і зробите.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This might attract unwanted attention and spread disease.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T174235Z" creationid="Yurii" creationdate="20261006T174235Z">
+        <seg>Це може викликати лишню увагу і поширювати недугу.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27650,8 +27794,8 @@ With a research bakground in everything from cognitive evolution to neutrino det
       <tuv lang="en">
         <seg>VERY LOW</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T180235Z" creationid="Yuriy" creationdate="20260324T192047Z">
-        <seg>ДУЖЕ НИЗЬКИЙ РІВЕНЬ</seg>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164224Z" creationid="Yuriy" creationdate="20260324T192047Z">
+        <seg>ДУЖЕ НИЗЬКО</seg>
       </tuv>
     </tu>
     <tu>
@@ -27736,6 +27880,14 @@ With a research bakground in everything from cognitive evolution to neutrino det
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Vertical Sync</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164634Z" creationid="Yurii" creationdate="20261006T164634Z">
+        <seg>Вертикальна Синхронізація</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Very Hungry</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260401T094626Z" creationid="Yuriy" creationdate="20260401T094626Z">
@@ -27766,6 +27918,14 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T192101Z" creationid="Yuriy" creationdate="20260324T192101Z">
         <seg>Незначний</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164442Z" creationid="Yurii" creationdate="20261006T164442Z">
+        <seg>Відео</seg>
       </tuv>
     </tu>
     <tu>
@@ -27942,6 +28102,14 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260402T090835Z" creationid="Yuriy" creationdate="20260402T090835Z">
         <seg>ХТО СЛІДКУЄ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WINDOWED</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T164648Z" creationid="Yurii" creationdate="20261006T164648Z">
+        <seg>ВІКОННИЙ</seg>
       </tuv>
     </tu>
     <tu>
@@ -28388,6 +28556,14 @@ But there's a problem I can't figure out.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>What do you seek?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T170837Z" creationid="Yurii" creationdate="20261006T170837Z">
+        <seg>Чого ти шукаєш?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>What happened to Jager?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260331T164622Z" creationid="Yuriy" creationdate="20260331T164613Z">
@@ -28408,6 +28584,14 @@ But there's a problem I can't figure out.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T171459Z" creationid="Yuriy" creationdate="20260329T171459Z">
         <seg>Що тут взагалі коїться?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>What then eh?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171325Z" creationid="Yurii" creationdate="20261006T171325Z">
+        <seg>Що тоді, га?</seg>
       </tuv>
     </tu>
     <tu>
@@ -28726,6 +28910,14 @@ A question still lingers regarding the symbols and shapes etched into its surfac
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T180018Z" creationid="Yuriy" creationdate="20260329T180018Z">
         <seg>Викличе нудоту та блювоту.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Window Mode</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T165748Z" creationid="Yurii" creationdate="20261006T165748Z">
+        <seg>Віконний Режим</seg>
       </tuv>
     </tu>
     <tu>
@@ -29374,6 +29566,14 @@ A question still lingers regarding the symbols and shapes etched into its surfac
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T102534Z" creationid="Yuriy" creationdate="20260329T102534Z">
         <seg>Ви достатньо сильні, щоб володіти Важкою Зброєю і тепер можете розкривати торговельні автомати, що назавжди їх зламає.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are trapped here.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T170939Z" creationid="Yurii" creationdate="20261006T170939Z">
+        <seg>Ти тут у пастці.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30503,6 +30703,14 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You smell disgusting.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T172827Z" creationid="Yurii" creationdate="20261006T172827Z">
+        <seg>Ти огидно пахнеш.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You stand out, to your detriment.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T091256Z" creationid="Yuriy" creationdate="20260329T091256Z">
@@ -30547,6 +30755,14 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T162854Z" creationid="Yuriy" creationdate="20260329T162854Z">
         <seg>Ви розблоковуєте рецепт покращеного ножа.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You want out?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T170913Z" creationid="Yurii" creationdate="20261006T170913Z">
+        <seg>Хочеш вибратися?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31055,6 +31271,14 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your devices.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171022Z" creationid="Yurii" creationdate="20261006T171022Z">
+        <seg>Ваші пристрої.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Your extended universe-hopping has enhanced your strong sneaking abilities.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T115152Z" creationid="Yuriy" creationdate="20260329T115152Z">
@@ -31147,6 +31371,14 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T154034Z" creationid="Yuriy" creationdate="20260422T154034Z">
         <seg>Ти зіграв свою роль, поки що ... і все що було, залишиться.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your people would not open the way, [2.7]but they are gone, the crusaders saw to that.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171449Z" creationid="Yurii" creationdate="20261006T171449Z">
+        <seg>Твої люди не стали би відкривати шлях, [2.7]але їх більше немає, хрестоносці про це подбали.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31491,6 +31723,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[12]You’ll have your way out.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171203Z" creationid="Yurii" creationdate="20261006T171203Z">
+        <seg>[12]І ти отримаєш свій вихід.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[13.29]Each entry to an anteverse seems to start a timer, which resets after a given period [19.4]as though a band of time stretches, before snapping back to its origin.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T211204Z" creationid="Yuriy" creationdate="20260515T211204Z">
@@ -31583,6 +31823,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T162028Z" creationid="Yuriy" creationdate="20260408T162028Z">
         <seg>[15.5]Їхні процесори зберігають коди доступу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[15.7]When you’ve opened your door?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171210Z" creationid="Yurii" creationdate="20261006T171210Z">
+        <seg>[15.7]Коли ти відчиниш свої двері?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31771,6 +32019,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[2.1]Remove the cells, and the way will open.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T172811Z" creationid="Yurii" creationdate="20261006T172811Z">
+        <seg>[2.1]Прибери ядра і шлях відкриється.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[2.25]Ever since Verenkov's team took over Silo 3.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T161004Z" creationid="Yuriy" creationdate="20260408T161004Z">
@@ -31827,6 +32083,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[2.6]Like them.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T170923Z" creationid="Yurii" creationdate="20261006T170923Z">
+        <seg>[2.6]Як і вони.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[2.7]Radio's out, Frake's gone AWOL, and the place is crawling with gunned-up psycho cowboys.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T171940Z" creationid="Yuriy" creationdate="20260407T171940Z">
@@ -31839,6 +32103,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T125143Z" creationid="Yuriy" creationdate="20260405T125143Z">
         <seg>[2.7]Рація здохла, половина дверей полетіла під три чорти, а тепер ще ці дрібні стрибунці повсюди.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[2.8]Prevent the prevention, and problem solved.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T172324Z" creationid="Yurii" creationdate="20261006T172324Z">
+        <seg>[2.8]Запобіжи стримування і проблему вирішено.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32508,10 +32780,26 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[6.1]But shut down the devices.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T170955Z" creationid="Yurii" creationdate="20261006T170955Z">
+        <seg>[6.1]Але вимкни ті пристрої.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[6.2]I've been hiding here since those goons attacked that poor technician down there.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260514T221541Z" creationid="Yuriy" creationdate="20260514T221541Z">
         <seg>[6.2]Я ховаюся тут відтоді, як ці головорізи напали на того бідолашного техніка, що внизу.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[6.4]So there's no-one to stop you.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171625Z" creationid="Yurii" creationdate="20261006T171625Z">
+        <seg>[6.4]Тож тепер ніхто тебе не зупинятиме.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32688,6 +32976,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T162625Z" creationid="Yuriy" creationdate="20260422T162452Z">
         <seg>[9.0]Спіть і знайте, що ми пильнуємо за вами, простий народе, істоти, звірі, загарбники, прибульці... [19.0]І за всім іншим там, у темряві!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[9.1]Remove the power cells.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T171048Z" creationid="Yurii" creationdate="20261006T171048Z">
+        <seg>[9.1]Витягни енергетичні ядра.</seg>
       </tuv>
     </tu>
     <tu>
