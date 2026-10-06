@@ -1720,6 +1720,14 @@ Deployed prematurely during the Order's invasion, the unit's friend/foe distinct
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A friendly face!</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261006T122913Z" creationid="Yurii" creationdate="20261006T122913Z">
+        <seg>Знайоме обличчя!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A friendly skeleton, useful for displaying armor and other equipment.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T155957Z" creationid="Yuriy" creationdate="20260324T155957Z">
