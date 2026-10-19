@@ -11965,6 +11965,14 @@ She's near blind without her glasses, though.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>GO TO MANUFACTURING</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261019T134224Z" creationid="Yurii" creationdate="20261019T134224Z">
+        <seg>ПРЯМУЙТЕ НА ВИРОБНИЦТВО</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GOOD EVENING everyone!</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260425T144805Z" creationid="Yuriy" creationdate="20260422T162434Z">
