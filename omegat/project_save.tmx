@@ -11437,6 +11437,14 @@ She's near blind without her glasses, though.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fog Brain</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261019T110917Z" creationid="Yurii" creationdate="20261019T110917Z">
+        <seg>Туманний Розум</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fog Phenomenon</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T153528Z" creationid="Yuriy" creationdate="20260426T153528Z">
@@ -13531,8 +13539,8 @@ How did you manage it?</seg>
       <tuv lang="en">
         <seg>I can get Power Cells in Flathill now.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T104431Z" creationid="Yuriy" creationdate="20260504T104431Z">
-        <seg>Тепер я можу взяти Енергоядра що в Рівногір'ї</seg>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261019T110254Z" creationid="Yuriy" creationdate="20260504T104431Z">
+        <seg>Тепер я можу забрати Енергоядра, що в Рівногір'ї.</seg>
       </tuv>
     </tu>
     <tu>
