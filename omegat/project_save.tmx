@@ -28514,6 +28514,14 @@ I mentioned the problem I was having to Varsha in Manufacturing.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We'll never make it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T173858Z" creationid="Yurii" creationdate="20261029T173809Z">
+        <seg>Ми ніколи не вийдемо звідси.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We're giving everyone iodine tablets to counteract the radiation from expeditions._x000D_
 _x000D_
 But there's a problem I can't figure out.</seg>
@@ -32767,6 +32775,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T162350Z" creationid="Yuriy" creationdate="20260408T162350Z">
         <seg>[4.6]Я її так не програмувала.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[4.8]I'm 83% sure we're doomed.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T173831Z" creationid="Yurii" creationdate="20261029T173831Z">
+        <seg>[4.8]Я на 83% впевнений, що нам гаплик.</seg>
       </tuv>
     </tu>
     <tu>
