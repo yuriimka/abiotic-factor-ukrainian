@@ -8594,6 +8594,14 @@ CONTAINMENT PROTOCOLS: IS-0171-A is to be isolated by a perimeter cordon with a 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DETAILS</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T170819Z" creationid="Yurii" creationdate="20261029T170819Z">
+        <seg>ДЕТАЛІ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DETECT AUTOMATICALLY</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T160202Z" creationid="Yuriy" creationdate="20260326T160202Z">
@@ -14437,6 +14445,14 @@ Incidentally, autopsies suggest they're the second stage in the lifecycle of a m
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>INSTALL MOD</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T170814Z" creationid="Yurii" creationdate="20261029T170814Z">
+        <seg>ІНСТАЛЮВАТИ МОД</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>INVENTORY</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T183723Z" creationid="Yuriy" creationdate="20260324T183723Z">
@@ -17371,6 +17387,14 @@ If the item is the correct item and material, you will succeed.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MODS</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T170757Z" creationid="Yurii" creationdate="20261029T170757Z">
+        <seg>МОДИ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MONEY: ${0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T184557Z" creationid="Yuriy" creationdate="20260324T184557Z">
@@ -18005,10 +18029,26 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modify Mods</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T170807Z" creationid="Yurii" creationdate="20261029T170807Z">
+        <seg>Змінити Моди</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modify Sandbox Settings</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260326T163503Z" creationid="Yuriy" creationdate="20260326T163503Z">
         <seg>Змінити Налаштування Пісочниці</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mods</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T170753Z" creationid="Yurii" creationdate="20261029T170753Z">
+        <seg>Моди</seg>
       </tuv>
     </tu>
     <tu>
@@ -18241,6 +18281,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260324T184801Z" creationid="Yuriy" creationdate="20260324T184801Z">
         <seg>ДОДАНО НОВУ КАРТУ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>NEW QUEST ADDED</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T170838Z" creationid="Yurii" creationdate="20261029T170838Z">
+        <seg>ДОДАНО НОВИЙ КВЕСТ</seg>
       </tuv>
     </tu>
     <tu>
