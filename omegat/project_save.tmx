@@ -15857,6 +15857,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It's huge.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T173756Z" creationid="Yurii" creationdate="20261029T173756Z">
+        <seg>Воно велетенське.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It's like there's energy entering the system from somewhere else.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T221315Z" creationid="Yuriy" creationdate="20260515T221315Z">
@@ -16085,6 +16093,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260426T163846Z" creationid="Yuriy" creationdate="20260426T163846Z">
         <seg>Дженет каже, що Виробничий Сектор - наша найкраща надія на втечу...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Janet, what are we going to do?</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T173320Z" creationid="Yurii" creationdate="20261029T173320Z">
+        <seg>Дженет, і що ми будемо робити?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25646,6 +25662,14 @@ A subject of rampant speculation among the Manufacturing Sector team, no-one is 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The fog is coming ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T173244Z" creationid="Yurii" creationdate="20261029T173244Z">
+        <seg>Туман наближається ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The forest will not attack you, and you receive more favorable trades with Anteverse XXXIII.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T164646Z" creationid="Yuriy" creationdate="20260422T164646Z">
@@ -28496,6 +28520,14 @@ But there's a problem I can't figure out.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260515T214101Z" creationid="Yuriy" creationdate="20260515T214101Z">
         <seg>Ми видаємо йодні пігулки кожному, щоби протидіяти радіації від експедицій._x000D_ _x000D_Але є проблема, яку я не можу зрозуміти.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We're going to head through Manufacturing, then take the Surface Tunnel out of here ... [6]when you're ready, Abe ... so ... just try to calm down.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T173744Z" creationid="Yurii" creationdate="20261029T173744Z">
+        <seg>Ми пройдемо через Виробництво, потім крізь Поверхневий Тунель, подалі звідси ... [6]за твоєї готовності, Ейбе ... тому ... постарайся заспокоїтися.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32013,8 +32045,8 @@ Current Points Leftover: {0}</seg>
       <tuv lang="en">
         <seg>[16]So, clearly, we need to find another exit out of here, [20]and that's looking like Manufacturing West.</seg>
       </tuv>
-      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T172342Z" creationid="Yurii" creationdate="20261029T172117Z">
-        <seg>[16]Тож, зрозуміло, що ми повинні знайти інший вихід звідси, [20]і схоже що.</seg>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T172913Z" creationid="Yurii" creationdate="20261029T172117Z">
+        <seg>[16]Тож, зрозуміло, що ми повинні знайти інший вихід звідси, [20] чим швидше за все буде Західне Виробництво.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32367,6 +32399,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T124752Z" creationid="Yuriy" creationdate="20260405T124752Z">
         <seg>[23.7]А я... я лишаюся тут.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[23]I don't exactly enjoy the idea, but our options are... limited.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T173019Z" creationid="Yurii" creationdate="20261029T173019Z">
+        <seg>[23]Не те щоби мені до вподоби така ідея, та наші варіанти дещо ... обмежені.</seg>
       </tuv>
     </tu>
     <tu>
