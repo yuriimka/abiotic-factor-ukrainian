@@ -15623,6 +15623,14 @@ Familiar with every inch of Cascade's power generation systems and requirements,
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It knows we're here, Janet ... [2.3]There's nothing holding it back ... [5]Flathill is open.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T171645Z" creationid="Yurii" creationdate="20261029T171645Z">
+        <seg>Воно знає що ми тут Дженет ... [2.3]І ніщо його не стримує ... [5]Рівногір'я відчинене.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It looks like there's only one way forward.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260504T110215Z" creationid="Yuriy" creationdate="20260504T110215Z">
@@ -16221,6 +16229,14 @@ A single-minded savant with a deep-seated debt to Frake, the rest is history.</s
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T170714Z" creationid="Yuriy" creationdate="20260408T170714Z">
         <seg>Проста банка горошку.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Just breathe, Abe, we'll get through this just fine.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T171508Z" creationid="Yurii" creationdate="20261029T171508Z">
+        <seg>Просто дихай, Ейбе, ми впораємося з цим без проблем.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25052,6 +25068,14 @@ The shift to Cascade hasn't gone quite as expected for this ex-Coogee mall cop.<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That ... was a very, very bad idea.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T171136Z" creationid="Yurii" creationdate="20261029T171136Z">
+        <seg>Це ... була дуже, дуже погана ідея.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That certainly explains the noise complaints.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T151042Z" creationid="Yuriy" creationdate="20260405T151042Z">
@@ -30879,6 +30903,14 @@ MOVE the items into the correct slots and let your brain do the work.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You'll have to forgive my colleague, Abe, he's had a bit of a shock.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T171824Z" creationid="Yurii" creationdate="20261029T171824Z">
+        <seg>Вибачте мого колегу, Ейба, він був у незначному шоці.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You're a bit more stalwart than most.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260329T092914Z" creationid="Yuriy" creationdate="20260329T092914Z">
@@ -31747,6 +31779,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[11]Then some genius deactivated the Composer containment system.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T172201Z" creationid="Yurii" creationdate="20261029T172106Z">
+        <seg>[11]Потім якийсь розумник вимкнув систему утримування Композиторів.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[12.02]But she insisted that Anteverse flowers had a beauty to them.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T155149Z" creationid="Yuriy" creationdate="20260408T155149Z">
@@ -31967,6 +32007,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260407T170443Z" creationid="Yuriy" creationdate="20260407T170404Z">
         <seg>[16]Починаю відчувати, що БРАМА теж не надто зацікавлені в допомозі.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[16]So, clearly, we need to find another exit out of here, [20]and that's looking like Manufacturing West.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T172342Z" creationid="Yurii" creationdate="20261029T172117Z">
+        <seg>[16]Тож, зрозуміло, що ми повинні знайти інший вихід звідси, [20]і схоже що.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32840,6 +32888,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T125708Z" creationid="Yuriy" creationdate="20260405T125708Z">
         <seg>[5]Намагався їм втовкмачити про Виробництво, але вони й слухати не хотіли - вперлися рогом і все.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[5]We tried to get out through Flathill, and ... well ... some people ... died.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T172036Z" creationid="Yurii" creationdate="20261029T172036Z">
+        <seg>[5]Ми намагалися пройти через Рівногір'я, і ... що ж ... кілька людей ... загинуло.</seg>
       </tuv>
     </tu>
     <tu>
