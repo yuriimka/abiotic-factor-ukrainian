@@ -19285,6 +19285,14 @@ PAUSING IS ONLY ALLOWED IN SINGLEPLAYER</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Oh-Six-Four seems to sing to itself, if you could call it that, [9.8]emitting a series of resonant tones suggestive of communication.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T180336Z" creationid="Yurii" creationdate="20261029T180336Z">
+        <seg>Нуль-Шість-Чотири, здається, наспівує собі, якщо це взагалі можна так назвати, [9.8]видаючи серію резонансних тонів, схожих на спробу комунікації.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ohhhh, all my data ...</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T161844Z" creationid="Yuriy" creationdate="20260408T161844Z">
@@ -31755,6 +31763,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[1.7]On the advice of Keystone, GATE has established a facility here in Flathill.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T175718Z" creationid="Yurii" creationdate="20261029T175718Z">
+        <seg>[1.7]За порадою Ключника, БРАМА розгорнула дослідницький комплекс тут, у Рівногір'ї.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[1.8]How are we supposed to do that?</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260427T222912Z" creationid="Yuriy" creationdate="20260427T222912Z">
@@ -32027,6 +32043,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[14.6]The cavities that create these sounds appear to be the same cavities [18.8]the creature uses to ingest anyone who comes within reach ...</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T180401Z" creationid="Yurii" creationdate="20261029T180401Z">
+        <seg>[14.6]Порожнини, які утворюють ці звуки, схоже, є тими самими порожнинами [18.8]через які істота поглинає кожного, хто опиняється в межах досяжності ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[14.7]Wherever you want to go.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260322T221040Z" creationid="Yuriy" creationdate="20260322T221026Z">
@@ -32207,6 +32231,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260506T194036Z" creationid="Yuriy" creationdate="20260506T194036Z">
         <seg>[17.8]Багато хто з Виконавчого Комітету захоче зброю, я впевнений - [21.5]їхня уява не сягає далі - [24.8]але якщо нам просто вдасться позбутися агресії, [27.5]Пекарі стане надзвичайним робочим звіром.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[18.17]The location was selected for the convergence of certain geomagnetic forces, [22.3]that amplify the power of our perforation equipment.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T180130Z" creationid="Yurii" creationdate="20261029T180130Z">
+        <seg>[18.17]Місце було обрано через конвергенцію певних геомагнітних сил, [22.3]які посилюють потужність нашого перфораційного обладнання.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32579,6 +32611,14 @@ Current Points Leftover: {0}</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>[25.7]We stand poised on the brink of an entirely new technology, [29.7]I am convinced of it.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T180225Z" creationid="Yurii" creationdate="20261029T180225Z">
+        <seg>[25.7]Ми завмерли на порозі абсолютно нової технології, [29.7]я переконаний в цьому.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>[26.33]When all is change, behold the fixedness of all things.</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260422T153405Z" creationid="Yuriy" creationdate="20260422T153405Z">
@@ -32743,6 +32783,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260405T151717Z" creationid="Yuriy" creationdate="20260405T151717Z">
         <seg>[3.5]Зачини двері!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[3.6]I.S.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T180410Z" creationid="Yurii" creationdate="20261029T180410Z">
+        <seg>[3.6]І.С.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33232,6 +33280,14 @@ Current Points Leftover: {0}</seg>
       </tuv>
       <tuv lang="uk-UA" changeid="Yuriy" changedate="20260408T163746Z" creationid="Yuriy" creationdate="20260408T163746Z">
         <seg>[7]Це все, що Виконавчому комітету Каскаду дозволили знати.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[7]We judge it unwise to advertise our activities, [10.17]so for the time being, our presence is, ah, necessarily clandestine... [15.8]If not a bit syrupy.</seg>
+      </tuv>
+      <tuv lang="uk-UA" changeid="Yurii" changedate="20261029T175952Z" creationid="Yurii" creationdate="20261029T175952Z">
+        <seg>[7]Ми вважаємо необачним афішувати нашу діяльність, [10.17]тому наразі наша присутність є, кхм, вимушено таємною... [15.8]Якщо не липкою.</seg>
       </tuv>
     </tu>
     <tu>
